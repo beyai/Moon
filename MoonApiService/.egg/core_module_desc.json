@@ -1,0 +1,1 @@
+{"name": "core","unitPath": "/Volumes/Data/Worker/EggApiService/app/Core","clazzList": [{"name": "CacheService","filePath": "CacheService.ts"},{"name": "TokenService","filePath": "TokenService.ts"}],"multiInstanceClazzList": [],"protos": []}

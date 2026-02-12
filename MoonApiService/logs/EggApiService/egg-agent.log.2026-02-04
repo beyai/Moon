@@ -1,0 +1,929 @@
+2026-02-03 00:08:39,614 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:09:13,134 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 00:09:47,222 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 00:09:52,899 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 00:09:59,469 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 00:10:01,787 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/HomeController.ts change
+2026-02-03 00:10:02,965 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/HomeController.ts change
+2026-02-03 00:10:26,740 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:16:54,594 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Constraint/Payment.ts change
+2026-02-03 00:17:03,195 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Constraint/Payment.ts change
+2026-02-03 00:17:04,980 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Constraint/index.ts change
+2026-02-03 00:17:30,970 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleMiddleware.ts change
+2026-02-03 00:17:39,258 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Utils/EnumUtils.ts rename
+2026-02-03 00:17:53,682 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/EnumUtils.ts rename
+2026-02-03 00:18:00,115 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-03 00:18:10,153 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Utils/index.ts change
+2026-02-03 00:18:13,106 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-03 00:22:02,343 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:23:33,869 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:23:40,570 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:24:04,835 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:24:06,911 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:24:59,722 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:25:47,027 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:26:05,517 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:26:52,574 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:27:04,720 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:27:24,492 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:27:52,567 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:28:10,658 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:29:38,834 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:30:03,708 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:30:20,661 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:30:21,686 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:30:25,378 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 00:31:19,678 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:31:26,862 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:31:39,723 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:31:48,071 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:32:11,132 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:33:46,243 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:33:47,722 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:34:39,471 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:34:43,206 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:34:49,907 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:36:11,231 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:36:30,185 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:38:14,860 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:38:31,443 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:38:41,393 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:40:28,611 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:40:38,587 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:40:42,432 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:40:56,625 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:40:58,660 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:41:03,563 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:41:35,178 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:42:12,957 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:42:28,548 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:43:07,709 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:43:16,167 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:43:49,332 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:43:52,852 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:43:54,382 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:44:03,203 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:44:07,688 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:44:29,529 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:44:56,572 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:45:18,016 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:45:19,626 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:46:19,272 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:47:12,299 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:47:39,571 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:48:24,115 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/TokenService.ts change
+2026-02-03 00:49:27,076 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/TokenService.ts change
+2026-02-03 00:49:38,126 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:49:42,912 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:50:06,335 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:50:42,239 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:52:15,587 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:52:21,610 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:52:25,996 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:53:00,463 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:54:03,503 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:55:17,213 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:56:18,709 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:57:37,277 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 00:58:25,423 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:00:01,653 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/GeoIP.ts change
+2026-02-03 01:00:08,028 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/GeoIP.ts change
+2026-02-03 01:00:57,521 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/GeoIP.ts change
+2026-02-03 01:02:45,750 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:03:38,519 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:04:48,800 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:05:29,895 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:05:38,122 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:05:41,251 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:05:42,531 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:06:07,334 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts rename
+2026-02-03 01:06:55,008 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:07:35,302 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/HomeController.ts change
+2026-02-03 01:07:42,589 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:08:12,157 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/HomeController.ts change
+2026-02-03 01:08:23,477 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:08:24,462 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:09:25,935 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:10:11,349 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:10:34,751 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:10:45,369 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:10:56,563 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:11:23,670 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:11:32,309 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:11:43,382 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:12:10,926 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:16:37,003 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:16:38,408 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:17:40,058 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:18:41,700 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:19:15,576 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:19:44,080 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 01:19:52,279 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 01:20:03,087 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:20:07,559 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:20:11,354 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:20:19,027 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:20:35,647 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:20:43,017 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:21:10,959 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:21:22,945 WARN 97404 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:21:51,900 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:22:02,352 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:22:35,028 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:22:51,470 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:23:20,677 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:23:32,060 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:23:37,770 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:24:38,219 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/extend/context.ts change
+2026-02-03 01:24:47,096 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:25:33,843 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 01:25:41,265 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 01:25:43,339 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/ModuleController.ts change
+2026-02-03 01:25:48,921 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:26:02,304 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 01:26:06,590 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:26:09,716 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:26:20,874 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:26:52,650 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:26:56,810 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:27:02,285 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:27:05,801 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 01:27:27,923 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/GeoIP.ts change
+2026-02-03 01:27:38,201 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/GeoIP.ts change
+2026-02-03 01:28:53,585 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:28:56,585 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:29:04,636 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:29:39,513 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts rename
+2026-02-03 01:29:57,105 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts rename
+2026-02-03 01:30:00,227 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:30:04,263 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:31:01,205 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:31:40,217 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:31:43,903 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:33:58,955 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:34:15,493 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:34:43,944 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:35:19,723 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:35:47,922 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:35:50,123 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:36:02,976 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 01:36:47,528 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:36:52,375 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts rename
+2026-02-03 01:36:57,013 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemBaseController.ts rename
+2026-02-03 01:37:03,115 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:37:04,342 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:37:08,330 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 01:38:01,489 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 01:38:25,848 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts rename
+2026-02-03 01:38:37,551 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:38:48,445 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/index.ts rename
+2026-02-03 01:39:09,309 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/index.ts change
+2026-02-03 01:39:23,108 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/index.ts change
+2026-02-03 01:39:36,389 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:39:44,335 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:41:19,886 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts rename
+2026-02-03 01:41:40,663 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/index.ts change
+2026-02-03 01:42:46,402 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 01:43:47,830 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 01:44:38,990 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:44:39,785 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:45:35,112 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:46:23,752 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:48:42,116 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:53:26,333 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:53:30,364 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:53:36,536 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:57:03,805 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:58:33,792 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 01:59:09,863 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/User.ts rename
+2026-02-03 01:59:15,805 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/User.ts rename
+2026-02-03 01:59:30,633 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/User.ts change
+2026-02-03 01:59:47,611 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/User.ts change
+2026-02-03 02:00:08,076 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:00:27,298 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:00:53,174 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts rename
+2026-02-03 02:01:08,806 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 02:01:14,284 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:03:38,518 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:03:49,484 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:03:58,872 WARN 61462 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:07:18,422 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:07:30,957 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:07:33,875 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:09:01,590 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:09:45,493 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:12:36,180 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:13:49,097 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 02:13:49,668 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 02:13:57,765 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 02:14:35,346 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:14:44,592 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:14:46,662 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:15:43,432 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:16:02,762 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:17:38,647 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:18:22,528 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:18:47,231 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:19:37,670 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 02:19:54,517 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/User.ts change
+2026-02-03 02:22:42,018 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:29:32,511 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:29:50,986 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:29:56,023 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:29:57,455 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 02:31:09,427 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:31:20,142 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:31:58,765 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:32:50,678 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:34:51,903 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:35:17,596 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:36:03,926 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:36:10,915 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:37:19,450 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:37:32,933 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:37:54,415 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:39:05,871 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:39:20,833 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:40:06,334 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:40:18,460 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:40:55,012 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:40:59,566 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:41:06,676 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:45:24,519 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:45:27,559 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:45:41,792 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:46:22,862 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:48:42,674 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:49:24,212 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:49:40,518 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:54:04,365 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:55:53,687 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:55:57,572 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:56:01,920 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:56:40,309 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:57:39,859 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:58:48,375 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:58:58,639 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 02:59:23,331 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:01:33,181 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts change
+2026-02-03 03:03:17,447 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:06:31,305 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:06:46,997 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:06:50,654 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:10:01,177 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:10:20,221 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:10:25,782 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:10:31,275 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:11:16,623 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:11:41,440 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Admin.ts rename
+2026-02-03 03:11:58,987 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Admin.ts rename
+2026-02-03 03:12:03,652 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Admin.ts change
+2026-02-03 03:12:14,782 WARN 87885 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 03:15:12,157 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:15:28,260 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:19:02,747 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:19:46,934 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 03:22:02,494 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 03:22:08,584 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 03:22:20,942 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:22:36,378 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 03:22:40,432 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseService.ts change
+2026-02-03 03:22:42,660 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:22:49,821 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/CoreBase.ts change
+2026-02-03 03:23:00,978 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:23:39,983 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:23:54,448 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 03:26:07,343 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:27:55,829 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:28:08,212 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:28:38,484 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:28:39,440 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:28:42,074 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:28:54,324 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:29:46,982 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:32:12,530 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:33:44,052 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:33:46,440 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:34:08,955 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:34:10,410 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:34:44,947 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:35:20,421 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:35:30,449 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:39:09,601 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:39:16,374 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:39:23,670 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/TokenService.ts change
+2026-02-03 03:39:35,176 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:39:38,246 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:46:08,829 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:46:12,929 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:46:55,409 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:47:31,983 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:47:52,039 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:48:41,770 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:48:43,678 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:49:28,816 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:49:31,935 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 03:49:33,790 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 03:49:51,956 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts change
+2026-02-03 03:50:48,979 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:50:52,422 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:51:48,958 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:52:33,935 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 03:54:38,448 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:55:05,240 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:55:50,323 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:57:39,692 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:57:58,301 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 03:58:09,850 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:58:36,895 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:59:03,364 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:59:21,222 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:59:26,462 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:59:27,280 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 03:59:36,315 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 04:00:55,556 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:02:50,845 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:04:42,757 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts rename
+2026-02-03 04:04:59,855 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:07:47,045 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:08:04,307 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:09:27,300 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:09:30,661 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:11:58,550 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 04:12:08,618 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 04:13:02,385 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:13:04,973 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:13:08,128 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 04:13:32,480 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:13:37,875 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:14:17,560 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:14:31,209 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:16:18,835 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:16:23,345 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:16:57,540 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:18:48,454 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 04:19:46,889 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:21:11,036 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:21:41,094 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-03 04:22:31,282 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:23:27,373 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts change
+2026-02-03 04:25:44,653 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 04:26:05,279 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 04:26:15,800 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 04:27:33,483 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemBaseController.ts change
+2026-02-03 04:28:05,596 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 04:29:06,141 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 04:29:24,356 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 04:31:21,639 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/plugin.ts change
+2026-02-03 04:31:35,040 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/plugin.ts change
+2026-02-03 04:33:42,258 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Admin.ts change
+2026-02-03 04:34:39,719 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Token.ts change
+2026-02-03 04:35:06,421 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Token.ts change
+2026-02-03 04:35:40,067 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Token.ts change
+2026-02-03 04:35:54,710 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Token.ts change
+2026-02-03 04:36:15,905 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Token.ts change
+2026-02-03 04:36:59,779 WARN 29512 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 04:47:53,478 WARN 85120 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/TokenService.ts change
+2026-02-03 04:48:58,618 WARN 85120 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 04:49:12,264 WARN 85120 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 04:49:23,525 WARN 85120 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 04:50:01,370 WARN 85120 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 04:55:21,646 WARN 89281 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 04:56:04,065 WARN 89281 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:04:23,202 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:06:17,551 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:07:23,921 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:07:29,296 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:08:10,322 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:10:52,436 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:11:23,556 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:12:38,352 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:12:44,717 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:13:57,808 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/TokenService.ts change
+2026-02-03 05:14:15,855 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:15:05,174 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:16:10,046 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:16:28,422 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:17:05,913 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:17:26,136 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:17:34,395 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:18:06,376 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:19:43,549 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:20:13,306 WARN 95109 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 05:33:44,200 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:34:12,844 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:35:47,003 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:35:58,874 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:36:22,008 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:37:08,299 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:37:39,196 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 05:37:52,600 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:38:26,035 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:38:32,136 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 05:40:50,855 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 05:41:16,317 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 05:43:12,315 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 05:45:44,299 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.prod.ts change
+2026-02-03 05:46:04,792 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.prod.ts change
+2026-02-03 05:46:30,442 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts change
+2026-02-03 05:46:41,544 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 05:51:25,963 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:51:42,848 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:52:35,530 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:52:56,486 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:53:07,366 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:53:10,728 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:53:51,659 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 05:53:55,175 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 05:54:07,868 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-03 05:54:58,486 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:55:03,525 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:55:13,273 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:55:34,476 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:56:12,308 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-03 05:57:09,534 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Application.ts rename
+2026-02-03 05:57:20,693 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Application.ts change
+2026-02-03 05:57:30,510 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 05:57:49,334 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts rename
+2026-02-03 05:58:18,953 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceActive.ts rename
+2026-02-03 05:58:45,720 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Device.ts change
+2026-02-03 05:59:05,362 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Payment.ts change
+2026-02-03 05:59:19,974 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceActive.ts change
+2026-02-03 05:59:57,474 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 05:59:59,340 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:00:10,279 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:00:40,675 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:01:04,508 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceActive.ts change
+2026-02-03 06:01:32,964 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceMove.ts rename
+2026-02-03 06:01:40,477 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceMove.ts rename
+2026-02-03 06:01:51,364 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 06:01:56,826 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 06:02:19,859 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 06:02:34,352 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DevicePayment.ts rename
+2026-02-03 06:02:41,638 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Payment.ts rename
+2026-02-03 06:03:27,694 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Payment.ts change
+2026-02-03 06:03:32,855 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Payment.ts change
+2026-02-03 06:03:59,871 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 06:04:04,060 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceMove.ts change
+2026-02-03 06:04:06,903 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Move.ts rename
+2026-02-03 06:04:08,713 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Active.ts rename
+2026-02-03 06:04:15,940 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/index.ts change
+2026-02-03 06:04:20,695 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Payment.ts change
+2026-02-03 06:04:49,979 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:04:58,593 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:05:00,260 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:05:23,135 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Active.ts change
+2026-02-03 06:05:48,071 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Move.ts change
+2026-02-03 06:06:06,434 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Move.ts change
+2026-02-03 06:06:14,185 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:06:25,011 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Active.ts change
+2026-02-03 06:06:35,530 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Active.ts change
+2026-02-03 06:06:51,355 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:07:01,667 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Move.ts change
+2026-02-03 06:08:09,823 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Device.ts change
+2026-02-03 06:09:31,480 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Payment.ts change
+2026-02-03 06:09:43,791 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Payment.ts change
+2026-02-03 06:10:30,993 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts rename
+2026-02-03 06:10:44,791 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts rename
+2026-02-03 06:10:52,961 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:11:37,158 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:11:38,579 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:11:53,466 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:12:22,373 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:12:45,912 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:12:58,130 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:13:18,287 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:13:59,714 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:14:04,886 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/DeviceSession.ts change
+2026-02-03 06:14:27,074 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application/Controller rename
+2026-02-03 06:14:34,076 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application/Controller rename
+2026-02-03 06:14:54,779 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application/package.json rename
+2026-02-03 06:15:06,392 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application/package.json rename
+2026-02-03 06:15:15,150 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/package.json rename
+2026-02-03 06:15:21,676 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/package.json change
+2026-02-03 06:15:41,995 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts rename
+2026-02-03 06:15:49,628 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts rename
+2026-02-03 06:15:51,618 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService copy.ts rename
+2026-02-03 06:15:59,471 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts rename
+2026-02-03 06:16:02,041 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService copy.ts rename
+2026-02-03 06:16:07,778 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceSessionService.ts rename
+2026-02-03 06:16:34,779 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application copy rename
+2026-02-03 06:16:45,658 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Payment/package.json change
+2026-02-03 06:17:01,562 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Payment copy rename
+2026-02-03 06:17:09,846 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Statistc/package.json change
+2026-02-03 06:17:43,448 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core/CacheService.ts change
+2026-02-03 06:17:51,150 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Core rename
+2026-02-03 06:17:51,360 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts change
+2026-02-03 06:17:58,646 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Core/TokenService.ts change
+2026-02-03 06:18:11,155 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/index.ts rename
+2026-02-03 06:18:14,140 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Application/index.ts rename
+2026-02-03 06:18:16,176 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Payment/index.ts rename
+2026-02-03 06:19:17,684 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts change
+2026-02-03 06:19:26,083 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 06:19:33,050 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:19:35,382 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:19:41,339 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceSessionService.ts change
+2026-02-03 06:20:08,446 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:20:11,198 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 06:20:18,864 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts change
+2026-02-03 06:20:26,409 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceSessionService.ts change
+2026-02-03 06:20:48,496 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/index.ts change
+2026-02-03 06:20:54,819 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts change
+2026-02-03 06:21:06,529 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceController.ts rename
+2026-02-03 06:21:23,438 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceController.ts change
+2026-02-03 06:21:46,939 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceController.ts change
+2026-02-03 06:21:52,993 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceController copy.ts rename
+2026-02-03 06:22:00,937 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts rename
+2026-02-03 06:22:03,029 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts rename
+2026-02-03 06:22:06,306 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts rename
+2026-02-03 06:22:10,220 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController copy.ts rename
+2026-02-03 06:22:20,958 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts rename
+2026-02-03 06:22:23,220 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts rename
+2026-02-03 06:22:26,030 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts rename
+2026-02-03 06:22:42,125 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController copy.ts rename
+2026-02-03 06:22:51,426 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceSessionController.ts rename
+2026-02-03 06:22:54,666 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceSessionController.ts rename
+2026-02-03 06:24:55,780 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts change
+2026-02-03 06:25:32,548 WARN 9726 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:28:25,772 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:28:52,233 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:29:48,645 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:30:14,516 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:30:28,429 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:30:32,213 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:30:48,710 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:31:41,763 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:32:53,905 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:33:01,284 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:34:07,303 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:34:09,502 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:38:05,428 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:38:34,879 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:39:42,787 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:40:35,348 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:41:10,190 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:41:31,476 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:41:58,741 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:42:00,479 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:42:04,325 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:43:00,645 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:43:30,558 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:44:51,126 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:44:53,142 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:45:51,879 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:45:57,289 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:01,382 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:08,490 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:09,480 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:37,300 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:51,437 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:46:53,974 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:48:07,412 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:48:17,797 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:49:34,124 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:49:51,200 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:49:55,413 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:50:24,411 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:50:32,719 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:50:43,183 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:51:41,682 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:52:28,369 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:52:41,506 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:54:12,210 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:54:25,905 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:54:58,533 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:55:29,279 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:55:36,866 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:55:54,475 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:56:02,250 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:56:31,423 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 06:58:00,062 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:00:39,927 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:02:13,019 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:02:16,083 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:02:36,642 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:03:43,520 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:05:34,028 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:05:35,649 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:05:47,048 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:06:40,345 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:06:43,815 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:06:45,056 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:07:10,336 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:08:38,818 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:09:28,252 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:10:56,509 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:11:52,966 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:12:05,595 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:12:25,114 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:13:49,287 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:14:43,919 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:16:45,301 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:17:09,151 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:17:41,045 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:18:23,427 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:18:29,969 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:19:10,873 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:19:14,449 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:21:47,174 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:23:55,447 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:24:42,098 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:24:46,793 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:24:48,444 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:25:22,070 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-03 07:26:14,451 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:26:18,398 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:26:42,678 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:27:32,777 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:28:53,606 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:29:54,014 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:30:06,542 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:31:04,637 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:31:08,250 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:31:17,031 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:31:20,567 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:33:11,510 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:34:01,141 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:34:28,890 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:35:48,538 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:35:50,064 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:38:00,679 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:38:04,697 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:38:30,152 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:38:59,360 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:41:47,698 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:42:19,073 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:42:45,440 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:43:07,142 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:43:32,537 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:45:49,468 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:46:30,868 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:46:40,158 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:46:44,252 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:47:34,714 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/config/config.default.ts change
+2026-02-03 07:51:15,680 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:52:03,515 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:54:28,379 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:55:01,992 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:55:10,932 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:57:31,781 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:58:21,104 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 07:59:51,696 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:01:53,885 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:02:08,611 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:02:17,605 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:02:35,739 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:05:19,956 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:06:18,569 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:07:18,823 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:08:26,136 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:08:37,119 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:09:07,551 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:14:04,283 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:14:19,622 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:16:01,363 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:16:38,574 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:16:53,061 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:17:29,150 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:18:10,767 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:18:52,788 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:20:08,861 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:20:20,294 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:23:58,574 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:24:00,926 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:24:41,810 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:24:46,406 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:24:54,741 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:26:00,941 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:27:41,779 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:28:58,759 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:29:00,526 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:29:06,961 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:29:08,442 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:29:40,857 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:31:07,669 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:31:09,891 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-03 08:33:07,152 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:36:11,309 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:38:38,731 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:40:43,148 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:41:49,812 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:42:07,010 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:43:42,068 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-03 08:43:47,546 WARN 55522 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceMoveController.ts change
+2026-02-04 05:11:09,177 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/HomeController.ts rename
+2026-02-04 05:11:49,992 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/package.json change
+2026-02-04 05:11:54,104 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/package.json change
+2026-02-04 05:12:15,771 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Service/DeviceSessionService.ts rename
+2026-02-04 05:12:29,148 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Service/ClientSessionService.ts rename
+2026-02-04 05:13:21,438 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Controller rename
+2026-02-04 05:13:28,871 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Validator rename
+2026-02-04 05:13:43,553 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Service rename
+2026-02-04 05:13:47,449 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/ClientSessionService.ts rename
+2026-02-04 05:13:51,189 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/Service/DeviceSessionService.ts rename
+2026-02-04 05:14:24,721 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/ClientBaseController.ts rename
+2026-02-04 05:14:53,343 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/ClientBaseController.ts change
+2026-02-04 05:14:57,507 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts rename
+2026-02-04 05:15:09,377 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts rename
+2026-02-04 05:15:18,020 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts rename
+2026-02-04 05:15:19,587 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts rename
+2026-02-04 05:15:55,055 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts change
+2026-02-04 05:15:56,038 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:16:20,655 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:16:34,809 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts change
+2026-02-04 05:17:45,174 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/Service/ClientSessionService.ts change
+2026-02-04 05:18:12,440 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts change
+2026-02-04 05:18:14,148 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts change
+2026-02-04 05:18:19,169 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/Service/ClientSessionService.ts change
+2026-02-04 05:18:31,806 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/DeviceSessionService.ts change
+2026-02-04 05:18:58,927 WARN 67067 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:20:39,231 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/DeviceContextService.ts rename
+2026-02-04 05:20:43,895 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/DeviceContextService.ts rename
+2026-02-04 05:20:46,430 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:20:48,564 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:21:02,019 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/BaseDeviceController.ts change
+2026-02-04 05:21:16,939 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/Service/ClientContextService.ts rename
+2026-02-04 05:21:18,893 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/Service/ClientContextService.ts rename
+2026-02-04 05:21:25,915 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Client/BaseClientController.ts change
+2026-02-04 05:23:03,304 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/DeviceContextService.ts change
+2026-02-04 05:23:47,921 WARN 73827 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Service/DeviceContextService.ts change
+2026-02-04 07:45:45,648 WARN 61415 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Api/v1/Device/Controller/DeviceController.ts change
+2026-02-04 17:52:00,207 WARN 7638 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/WebHookIOController.ts change
+2026-02-04 17:52:15,481 WARN 7638 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/WebHookIOController.ts change
+2026-02-04 17:57:34,938 WARN 12573 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts change
+2026-02-04 17:57:43,691 WARN 12573 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts change
+2026-02-04 17:58:01,839 WARN 12573 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts change
+2026-02-04 17:58:29,944 WARN 12573 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts change
+2026-02-04 18:18:40,437 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Statistc/Controller/StatistcController.ts change
+2026-02-04 18:20:29,168 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-04 18:20:46,614 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminService.ts change
+2026-02-04 18:22:41,528 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminController.ts change
+2026-02-04 18:29:54,418 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts change
+2026-02-04 18:30:22,707 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-04 18:30:32,643 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts change
+2026-02-04 18:31:21,742 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-04 18:31:39,517 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceActiveService.ts change
+2026-02-04 18:31:49,964 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts change
+2026-02-04 18:31:51,452 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts change
+2026-02-04 18:33:57,559 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-04 18:36:30,046 WARN 25476 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceMoveService.ts change
+2026-02-04 19:11:08,919 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 436369ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 19:27:07,857 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 918924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 19:44:02,859 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 954986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 20:02:42,871 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 939982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 20:19:50,876 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 987996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 20:38:12,879 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 921979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 20:58:00,889 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 967985ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 21:04:14,890 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 193970ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 21:20:20,900 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 926001ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 21:38:27,908 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 1046998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 21:56:37,914 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 909984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 22:05:15,918 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 477991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 22:21:10,926 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 915002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 22:39:23,930 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 912972ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 22:57:26,940 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 1023002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 23:06:16,940 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 349979ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 23:23:34,949 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 997998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 23:40:36,956 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 961993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-04 23:58:59,964 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 922987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 00:07:17,975 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 457988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+

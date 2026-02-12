@@ -1,0 +1,688 @@
+{
+  "config": {
+    "security": {
+      "domainWhiteList": [],
+      "protocolWhiteList": [],
+      "defaultMiddleware": "csrf,hsts,methodnoallow,noopen,nosniff,csp,xssProtection,xframe,dta",
+      "csrf": {
+        "enable": false
+      },
+      "xframe": {
+        "enable": true,
+        "value": "SAMEORIGIN",
+        "matching": "<Function anonymous>"
+      },
+      "hsts": {
+        "enable": false,
+        "maxAge": 31536000,
+        "includeSubdomains": false
+      },
+      "dta": {
+        "enable": true,
+        "matching": "<Function anonymous>"
+      },
+      "methodnoallow": {
+        "enable": true,
+        "matching": "<Function anonymous>"
+      },
+      "noopen": {
+        "enable": true,
+        "matching": "<Function anonymous>"
+      },
+      "nosniff": {
+        "enable": true,
+        "matching": "<Function anonymous>"
+      },
+      "referrerPolicy": {
+        "enable": false,
+        "value": "no-referrer-when-downgrade"
+      },
+      "xssProtection": {
+        "enable": true,
+        "value": "1; mode=block",
+        "matching": "<Function anonymous>"
+      },
+      "csp": {
+        "enable": false,
+        "policy": {}
+      },
+      "ssrf": {
+        "ipBlackList": null,
+        "ipExceptionList": null,
+        "hostnameExceptionList": null,
+        "checkAddress": null
+      },
+      "_protocolWhiteListSet": "<Set>"
+    },
+    "helper": {
+      "shtml": {}
+    },
+    "onerror": {
+      "errorPageUrl": "",
+      "appErrorFilter": null,
+      "templatePath": "/Volumes/Data/Worker/EggApiService/node_modules/egg-onerror/lib/onerror_page.mustache"
+    },
+    "watcher": {
+      "type": "development",
+      "eventSources": {
+        "default": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher/lib/event-sources/development"
+      }
+    },
+    "development": {
+      "watchDirs": [],
+      "ignoreDirs": [],
+      "fastReady": false,
+      "reloadOnDebug": true,
+      "overrideDefault": false,
+      "overrideIgnore": false
+    },
+    "customLogger": {
+      "scheduleLogger": {
+        "consoleLevel": "NONE",
+        "file": "egg-schedule.log"
+      }
+    },
+    "schedule": {
+      "directory": []
+    },
+    "logrotator": {
+      "filesRotateByHour": null,
+      "hourDelimiter": "-",
+      "filesRotateBySize": null,
+      "maxFileSize": 52428800,
+      "maxFiles": 10,
+      "rotateDuration": 60000,
+      "maxDays": 31
+    },
+    "static": {
+      "prefix": "/public/",
+      "dir": "/Volumes/Data/Worker/EggApiService/app/public",
+      "dynamic": true,
+      "preload": false,
+      "buffer": false,
+      "maxFiles": 1000
+    },
+    "mcp": {
+      "sseInitPath": "/mcp/sse",
+      "sseMessagePath": "/mcp/message",
+      "streamPath": "/mcp/stream",
+      "statelessStreamPath": "/mcp/stateless/stream",
+      "sessionIdGenerator": "<Function randomUUID>",
+      "hooks": []
+    },
+    "sequelize": {
+      "dialect": "mysql",
+      "database": "moon",
+      "host": "192.168.5.219",
+      "port": 3306,
+      "username": "moon",
+      "password": "<String len: 16>",
+      "timezone": "+08:00",
+      "dialectOptions": {
+        "charset": "utf8mb4",
+        "dateStrings": true,
+        "typeCast": true
+      },
+      "define": {
+        "underscored": false,
+        "timestamps": true,
+        "freezeTableName": false,
+        "defaultScope": {
+          "attributes": {
+            "exclude": [
+              "deletedAt"
+            ]
+          }
+        }
+      },
+      "logging": "<Function logging>"
+    },
+    "env": "local",
+    "name": "EggApiService",
+    "keys": "<String len: 32>",
+    "cookies": {},
+    "proxy": true,
+    "maxIpsCount": 0,
+    "maxProxyCount": 0,
+    "protocolHeaders": "x-forwarded-proto",
+    "ipHeaders": "x-forwarded-for",
+    "hostHeaders": "",
+    "pkg": {
+      "name": "EggApiService",
+      "version": "1.0.0",
+      "description": "",
+      "private": true,
+      "egg": {
+        "declarations": true,
+        "typescript": true
+      },
+      "scripts": {
+        "start": "egg-scripts start --daemon --title=ApiService",
+        "stop": "egg-scripts stop --title=ApiService",
+        "dev": "egg-bin dev",
+        "tsc": "tsc",
+        "clean": "tsc -b --clean",
+        "prepublishOnly": "npm run clean && npm run tsc"
+      },
+      "dependencies": {
+        "@eggjs/tegg": "^3.68.0",
+        "@eggjs/tegg-config": "^3.68.0",
+        "@eggjs/tegg-controller-plugin": "^3.68.0",
+        "@eggjs/tegg-plugin": "^3.68.0",
+        "@eggjs/tegg-schedule-plugin": "^3.68.0",
+        "bcryptjs": "^3.0.3",
+        "cbor": "^10.0.11",
+        "chokidar": "^5.0.0",
+        "dayjs": "^1.11.19",
+        "egg": "^3.32.0",
+        "egg-scripts": "^3.1.0",
+        "egg-sequelize-typescript": "^2.0.0",
+        "egg-tracer": "^2.0.0",
+        "fs-extra": "^11.3.3",
+        "ioredis": "5.8.2",
+        "jsonwebtoken": "^9.0.3",
+        "lodash": "^4.17.21",
+        "mmdb-lib": "^3.0.1",
+        "mysql2": "^3.16.0",
+        "parameter": "^3.7.0",
+        "semver": "^7.7.3",
+        "sequelize": "^6.37.7",
+        "sequelize-typescript": "^2.1.6",
+        "smol-toml": "^1.6.0",
+        "ulid": "^3.0.2"
+      },
+      "devDependencies": {
+        "@eggjs/tsconfig": "1",
+        "@types/jsonwebtoken": "^9.0.10",
+        "@types/lodash": "^4.17.21",
+        "@types/mocha": "10",
+        "@types/node": "20",
+        "@types/parameter": "^3.6.7",
+        "egg-bin": "6",
+        "egg-mock": "5",
+        "eslint": "8",
+        "eslint-config-egg": "13",
+        "minimatch": "^10.1.1",
+        "typescript": "5"
+      },
+      "engines": {
+        "node": ">=20.18.1"
+      },
+      "repository": {
+        "type": "git",
+        "url": ""
+      },
+      "author": "",
+      "license": "MIT"
+    },
+    "baseDir": "/Volumes/Data/Worker/EggApiService",
+    "HOME": "/Users/chandre",
+    "rundir": "/Volumes/Data/Worker/EggApiService/run",
+    "dump": {
+      "ignore": "<Set>",
+      "timing": {
+        "slowBootActionMinDuration": 5000
+      }
+    },
+    "confusedConfigurations": {
+      "bodyparser": "bodyParser",
+      "notFound": "notfound",
+      "sitefile": "siteFile",
+      "middlewares": "middleware",
+      "httpClient": "httpclient"
+    },
+    "notfound": {
+      "pageUrl": ""
+    },
+    "siteFile": {
+      "/favicon.ico": "<Buffer len: 6463>",
+      "cacheControl": "public, max-age=2592000"
+    },
+    "bodyParser": {
+      "enable": true,
+      "encoding": "utf8",
+      "formLimit": "1mb",
+      "jsonLimit": "1mb",
+      "textLimit": "1mb",
+      "strict": true,
+      "queryString": {
+        "arrayLimit": 100,
+        "depth": 5,
+        "parameterLimit": 1000
+      },
+      "returnRawBody": true
+    },
+    "logger": {
+      "dir": "/Volumes/Data/Worker/EggApiService/logs/EggApiService",
+      "encoding": "utf8",
+      "env": "local",
+      "level": "WARN",
+      "consoleLevel": "DEBUG",
+      "disableConsoleAfterReady": false,
+      "outputJSON": false,
+      "buffer": true,
+      "appLogName": "EggApiService-web.log",
+      "coreLogName": "egg-web.log",
+      "agentLogName": "egg-agent.log",
+      "errorLogName": "common-error.log",
+      "coreLogger": {
+        "consoleLevel": "WARN"
+      },
+      "allowDebugAtProd": false,
+      "enablePerformanceTimer": false,
+      "enableFastContextLogger": false,
+      "type": "application",
+      "localStorage": "<AsyncLocalStorage>"
+    },
+    "httpclient": {
+      "enableDNSCache": false,
+      "dnsCacheLookupInterval": 10000,
+      "dnsCacheMaxLength": 1000,
+      "request": {
+        "timeout": 5000
+      },
+      "httpAgent": {
+        "keepAlive": true,
+        "freeSocketTimeout": 4000,
+        "maxSockets": 9007199254740991,
+        "maxFreeSockets": 256
+      },
+      "httpsAgent": {
+        "keepAlive": true,
+        "freeSocketTimeout": 4000,
+        "maxSockets": 9007199254740991,
+        "maxFreeSockets": 256
+      },
+      "useHttpClientNext": false
+    },
+    "meta": {
+      "enable": true,
+      "logging": false
+    },
+    "coreMiddleware": [
+      "meta",
+      "siteFile",
+      "notfound",
+      "static",
+      "bodyParser",
+      "overrideMethod",
+      "teggRootProto",
+      "teggCtxLifecycleMiddleware",
+      "securities",
+      "eggLoaderTrace"
+    ],
+    "workerStartTimeout": 600000,
+    "serverTimeout": null,
+    "cluster": {
+      "listen": {
+        "path": "",
+        "port": 7001,
+        "hostname": ""
+      }
+    },
+    "clusterClient": {
+      "maxWaitTime": 60000,
+      "responseTimeout": 60000
+    },
+    "onClientError": null,
+    "middleware": [
+      "errorHandler"
+    ],
+    "settingFile": "/Volumes/Data/Worker/EggApiService/setting/AppSetting.toml",
+    "geoipDB": "/Volumes/Data/Worker/EggApiService/config/GeoLite2-City.mmdb",
+    "accountBlackList": [
+      "admin",
+      "administrator",
+      "root",
+      "super",
+      "superadmin",
+      "superuser",
+      "guest",
+      "test",
+      "webmaster",
+      "master",
+      "system",
+      "123456"
+    ],
+    "webHookApiKey": "5a8a1b2c-3d4e-4f5a-6b7c-8d9e0f1a2b3c",
+    "moveExpired": {
+      "unit": "day",
+      "min": 3,
+      "max": 30
+    },
+    "activeExpired": {
+      "unit": "year",
+      "value": 1
+    },
+    "replayTimeWin": {
+      "pastWin": 60,
+      "futureWin": 60
+    },
+    "appBundle": {
+      "teamIdentifier": "CWBDA27TQ2",
+      "bundleIdentifier": "com.chandre.moon",
+      "bundleName": "Moon",
+      "appStoreURL": "https://apps.apple.com/hk/app/%E6%B7%B7%E6%B2%8C%E4%B9%8B%E7%9C%BC/id6502680584",
+      "privateKey": "<Buffer len: 32>"
+    },
+    "clientBundle": {
+      "bundleIdentifier": "com.pokervisionpro.app",
+      "bundleName": "PokerVisionPro",
+      "version": "1.0.0",
+      "downloadURL": "http://www.baidu.com",
+      "privateKey": "<Buffer len: 32>"
+    },
+    "token": {
+      "secretKey": "<String len: 64>",
+      "accessTTL": 86400,
+      "refreshTTL": 604800
+    },
+    "deviceUsageTimeLimit": 1500,
+    "cloudflare": {
+      "enable": true,
+      "appId": "9dc1f91f193e52268958b259c93e4b6f",
+      "secretKey": "<String len: 64>",
+      "ttl": 28800,
+      "threshold": 14400,
+      "regionBlackList": [
+        "CN"
+      ],
+      "timeout": 15000
+    },
+    "cache": {
+      "host": "192.168.5.219",
+      "port": 6379,
+      "password": "<String len: 9>",
+      "db": 0,
+      "prefix": ""
+    },
+    "coreMiddlewares": "~config~coreMiddleware",
+    "appMiddlewares": "~config~middleware",
+    "appMiddleware": "~config~middleware"
+  },
+  "plugins": {
+    "onerror": {
+      "enable": true,
+      "package": "egg-onerror",
+      "name": "onerror",
+      "dependencies": [],
+      "optionalDependencies": [
+        "jsonp"
+      ],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-onerror",
+      "version": "2.4.0"
+    },
+    "session": {
+      "enable": false,
+      "package": "egg-session",
+      "name": "session",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-session",
+      "version": "3.3.0"
+    },
+    "i18n": {
+      "enable": false,
+      "package": "egg-i18n",
+      "name": "i18n",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-i18n",
+      "version": "2.1.1"
+    },
+    "watcher": {
+      "enable": true,
+      "package": "egg-watcher",
+      "name": "watcher",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher",
+      "version": "3.1.1",
+      "dependents": [
+        "development"
+      ]
+    },
+    "multipart": {
+      "enable": false,
+      "package": "egg-multipart",
+      "name": "multipart",
+      "dependencies": [],
+      "optionalDependencies": [
+        "schedule"
+      ],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-multipart",
+      "version": "3.5.0"
+    },
+    "security": {
+      "enable": true,
+      "package": "egg-security",
+      "name": "security",
+      "dependencies": [],
+      "optionalDependencies": [
+        "session"
+      ],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security",
+      "version": "3.7.0"
+    },
+    "development": {
+      "enable": true,
+      "package": "egg-development",
+      "name": "development",
+      "dependencies": [
+        "watcher"
+      ],
+      "optionalDependencies": [],
+      "env": [
+        "local"
+      ],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development",
+      "version": "3.0.2"
+    },
+    "logrotator": {
+      "enable": true,
+      "package": "egg-logrotator",
+      "name": "logrotator",
+      "dependencies": [
+        "schedule"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator",
+      "version": "3.2.0"
+    },
+    "schedule": {
+      "enable": true,
+      "package": "egg-schedule",
+      "name": "schedule",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/plugin.js",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-schedule",
+      "version": "4.0.1",
+      "dependents": [
+        "logrotator"
+      ]
+    },
+    "static": {
+      "enable": true,
+      "package": "egg-static",
+      "name": "static",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static",
+      "version": "2.3.1"
+    },
+    "jsonp": {
+      "enable": false,
+      "package": "egg-jsonp",
+      "name": "jsonp",
+      "dependencies": [],
+      "optionalDependencies": [
+        "security"
+      ],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-jsonp",
+      "version": "2.0.0"
+    },
+    "view": {
+      "enable": false,
+      "package": "egg-view",
+      "name": "view",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-view",
+      "version": "2.1.4"
+    },
+    "tegg": {
+      "enable": true,
+      "package": "@eggjs/tegg-plugin",
+      "name": "tegg",
+      "dependencies": [
+        "teggConfig"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin",
+      "version": "3.71.2",
+      "dependents": [
+        "teggController"
+      ]
+    },
+    "teggConfig": {
+      "enable": true,
+      "package": "@eggjs/tegg-config",
+      "name": "teggConfig",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-config",
+      "version": "3.71.2",
+      "dependents": [
+        "tegg"
+      ]
+    },
+    "teggController": {
+      "enable": true,
+      "package": "@eggjs/tegg-controller-plugin",
+      "name": "teggController",
+      "dependencies": [
+        "tegg"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin",
+      "version": "3.71.2"
+    },
+    "sequelize": {
+      "enable": true,
+      "package": "egg-sequelize-typescript",
+      "name": "sequelize",
+      "dependencies": [],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Volumes/Data/Worker/EggApiService/config/plugin.ts",
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg-sequelize-typescript",
+      "version": "2.0.0"
+    }
+  },
+  "appInfo": {
+    "name": "EggApiService",
+    "baseDir": "/Volumes/Data/Worker/EggApiService",
+    "env": "local",
+    "scope": "",
+    "HOME": "/Users/chandre",
+    "pkg": {
+      "name": "EggApiService",
+      "version": "1.0.0",
+      "description": "",
+      "private": true,
+      "egg": {
+        "declarations": true,
+        "typescript": true
+      },
+      "scripts": {
+        "start": "egg-scripts start --daemon --title=ApiService",
+        "stop": "egg-scripts stop --title=ApiService",
+        "dev": "egg-bin dev",
+        "tsc": "tsc",
+        "clean": "tsc -b --clean",
+        "prepublishOnly": "npm run clean && npm run tsc"
+      },
+      "dependencies": {
+        "@eggjs/tegg": "^3.68.0",
+        "@eggjs/tegg-config": "^3.68.0",
+        "@eggjs/tegg-controller-plugin": "^3.68.0",
+        "@eggjs/tegg-plugin": "^3.68.0",
+        "@eggjs/tegg-schedule-plugin": "^3.68.0",
+        "bcryptjs": "^3.0.3",
+        "cbor": "^10.0.11",
+        "chokidar": "^5.0.0",
+        "dayjs": "^1.11.19",
+        "egg": "^3.32.0",
+        "egg-scripts": "^3.1.0",
+        "egg-sequelize-typescript": "^2.0.0",
+        "egg-tracer": "^2.0.0",
+        "fs-extra": "^11.3.3",
+        "ioredis": "5.8.2",
+        "jsonwebtoken": "^9.0.3",
+        "lodash": "^4.17.21",
+        "mmdb-lib": "^3.0.1",
+        "mysql2": "^3.16.0",
+        "parameter": "^3.7.0",
+        "semver": "^7.7.3",
+        "sequelize": "^6.37.7",
+        "sequelize-typescript": "^2.1.6",
+        "smol-toml": "^1.6.0",
+        "ulid": "^3.0.2"
+      },
+      "devDependencies": {
+        "@eggjs/tsconfig": "1",
+        "@types/jsonwebtoken": "^9.0.10",
+        "@types/lodash": "^4.17.21",
+        "@types/mocha": "10",
+        "@types/node": "20",
+        "@types/parameter": "^3.6.7",
+        "egg-bin": "6",
+        "egg-mock": "5",
+        "eslint": "8",
+        "eslint-config-egg": "13",
+        "minimatch": "^10.1.1",
+        "typescript": "5"
+      },
+      "engines": {
+        "node": ">=20.18.1"
+      },
+      "repository": {
+        "type": "git",
+        "url": ""
+      },
+      "author": "",
+      "license": "MIT"
+    },
+    "root": "/Volumes/Data/Worker/EggApiService"
+  }
+}

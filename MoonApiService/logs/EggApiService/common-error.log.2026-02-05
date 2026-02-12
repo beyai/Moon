@@ -1,0 +1,514 @@
+2026-02-05 00:24:14,975 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 976990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 00:43:52,982 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 997980ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 01:01:12,995 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 999999ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 01:08:18,988 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 245967ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 01:24:18,997 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 920002ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 01:40:44,002 ERROR 25476 nodejs.ClusterClientNoResponseError: client no response in 924994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 25476
+hostname: Mac-mini.local
+
+2026-02-05 04:23:09,745 ERROR 88190 [-/127.0.0.1/-/2ms POST /v1/client/logout] 客户端响应数据构建失败：客户端唯一标识未定义
+2026-02-05 05:18:47,765 ERROR 15770 [-/127.0.0.1/-/18ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:19:00,348 ERROR 15770 [-/127.0.0.1/-/4ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:20:18,167 ERROR 15770 [-/127.0.0.1/-/13ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:20:48,386 ERROR 15770 [-/127.0.0.1/-/9ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:21:13,403 ERROR 15770 [-/127.0.0.1/-/6ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:25:45,341 ERROR 34466 [-/127.0.0.1/-/10ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 34466
+hostname: Mac-mini.local
+
+2026-02-05 05:27:09,853 ERROR 37141 [-/127.0.0.1/-/13ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:90:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:84:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 37141
+hostname: Mac-mini.local
+
+2026-02-05 05:29:21,749 ERROR 39378 [-/127.0.0.1/-/18ms POST /hooks/io/leave] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:324:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "断开时间格式错误"
+pid: 39378
+hostname: Mac-mini.local
+
+2026-02-05 05:29:37,132 ERROR 39378 [-/127.0.0.1/-/1ms POST /hooks/io/leave] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:324:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "断开时间格式错误"
+pid: 39378
+hostname: Mac-mini.local
+
+2026-02-05 05:32:23,858 ERROR 41434 [-/127.0.0.1/-/12ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:34:45,139 ERROR 41434 [-/127.0.0.1/-/8ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:35:12,918 ERROR 41434 [-/127.0.0.1/-/4ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:35:38,063 ERROR 41434 [-/127.0.0.1/-/1ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:36:33,259 ERROR 41434 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:37:10,208 ERROR 41434 [-/127.0.0.1/-/4ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:37:55,680 ERROR 47017 [-/127.0.0.1/-/11ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:38:01,568 ERROR 47017 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:38:34,738 ERROR 47017 [-/127.0.0.1/-/6ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:44:57,952 ERROR 52846 [-/127.0.0.1/-/35ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 52846
+hostname: Mac-mini.local
+
+2026-02-05 05:46:32,667 ERROR 55007 [-/127.0.0.1/-/4ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 55007
+hostname: Mac-mini.local
+
+2026-02-05 06:37:57,482 ERROR 84782 [-/127.0.0.1/-/10ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 84782
+hostname: Mac-mini.local
+
+2026-02-05 06:38:22,827 ERROR 84782 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 84782
+hostname: Mac-mini.local
+
+2026-02-05 06:39:10,668 ERROR 85769 [-/127.0.0.1/-/10ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 85769
+hostname: Mac-mini.local
+
+2026-02-05 06:40:00,873 ERROR 86244 [-/127.0.0.1/-/8ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:318:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 86244
+hostname: Mac-mini.local
+
+2026-02-05 06:40:33,753 ERROR 86515 [-/127.0.0.1/-/17ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 86515
+hostname: Mac-mini.local
+
+2026-02-05 06:41:29,963 ERROR 87140 [-/127.0.0.1/-/9ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 87140
+hostname: Mac-mini.local
+
+2026-02-05 06:57:37,254 ERROR 99714 [-/192.168.3.82/-/7ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 06:57:49,830 ERROR 99714 [-/192.168.3.82/-/15ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 06:57:55,727 ERROR 99714 [-/192.168.3.82/-/9ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 07:01:19,620 ERROR 3523 [-/192.168.3.82/-/24ms POST /hooks/io/join] nodejs.BadRequestError: 已累计达到最大试用时长限制, 请等待 58分钟！
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:77:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+message: "已累计达到最大试用时长限制, 请等待 58分钟！"
+pid: 3523
+hostname: Mac-mini.local
+
+2026-02-05 07:01:36,740 ERROR 3523 [-/192.168.3.82/-/19ms POST /hooks/io/join] nodejs.BadRequestError: 已累计达到最大试用时长限制, 请等待 58分钟！
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:77:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+message: "已累计达到最大试用时长限制, 请等待 58分钟！"
+pid: 3523
+hostname: Mac-mini.local
+

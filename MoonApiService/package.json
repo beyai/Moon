@@ -1,52 +1,68 @@
 {
-  "name": "NodeAdmin",
-  "version": "1.0.0",
-  "description": "",
-  "private": true,
-  "type": "commonjs",
-  "egg": {
-    "declarations": true
-  },
-  "dependencies": {
-    "@peculiar/x509": "^1.14.0",
-    "asn1js": "^3.0.6",
-    "bcryptjs": "^3.0.2",
-    "cbor": "^10.0.11",
-    "cbor-x": "^1.6.0",
-    "dayjs": "^1.11.13",
-    "egg": "^3.31.0",
-    "egg-router-plus": "^2.0.0",
-    "egg-scripts": "^3.1.0",
-    "egg-sequelize": "^6.0.0",
-    "egg-websocket-plugin": "^3.0.0-beta.0",
-    "fs-extra": "^11.3.0",
-    "ioredis": "^5.7.0",
-    "jsonwebtoken": "^9.0.2",
-    "lodash": "^4.17.21",
-    "mmdb-lib": "^3.0.1",
-    "mysql2": "^3.14.1",
-    "node-app-attest": "^0.0.8",
-    "parameter": "^3.7.0",
-    "pkijs": "^3.3.3",
-    "semver": "^7.7.3",
-    "smol-toml": "^1.5.2",
-    "yaml": "^2.8.0"
-  },
-  "devDependencies": {
-    "egg-bin": "^6.13.0"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "scripts": {
-    "start": "egg-scripts start --daemon --title=egg-server-NodeAdmin",
-    "stop": "egg-scripts stop --title=egg-server-NodeAdmin",
-    "dev": "egg-bin dev"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "author": "",
-  "license": "MIT"
+    "name": "EggApiService",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "egg": {
+        "declarations": true,
+        "typescript": true
+    },
+    "scripts": {
+        "start": "egg-scripts start --daemon --title=ApiService",
+        "stop": "egg-scripts stop --title=ApiService",
+        "dev": "egg-bin dev",
+        "tsc": "tsc",
+        "clean": "tsc -b --clean",
+        "prepublishOnly": "npm run clean && npm run tsc"
+    },
+    "dependencies": {
+        "@eggjs/tegg": "^3.68.0",
+        "@eggjs/tegg-config": "^3.68.0",
+        "@eggjs/tegg-controller-plugin": "^3.68.0",
+        "@eggjs/tegg-plugin": "^3.68.0",
+        "@eggjs/tegg-schedule-plugin": "^3.68.0",
+        "bcryptjs": "^3.0.3",
+        "cbor": "^10.0.11",
+        "chokidar": "^5.0.0",
+        "dayjs": "^1.11.19",
+        "egg": "^3.32.0",
+        "egg-scripts": "^3.1.0",
+        "egg-sequelize-typescript": "^2.0.0",
+        "egg-tracer": "^2.0.0",
+        "fs-extra": "^11.3.3",
+        "ioredis": "5.8.2",
+        "jsonwebtoken": "^9.0.3",
+        "lodash": "^4.17.21",
+        "mmdb-lib": "^3.0.1",
+        "mysql2": "^3.16.0",
+        "parameter": "^3.7.0",
+        "semver": "^7.7.3",
+        "sequelize": "^6.37.7",
+        "sequelize-typescript": "^2.1.6",
+        "smol-toml": "^1.6.0",
+        "ulid": "^3.0.2"
+    },
+    "devDependencies": {
+        "@eggjs/tsconfig": "1",
+        "@types/jsonwebtoken": "^9.0.10",
+        "@types/lodash": "^4.17.21",
+        "@types/mocha": "10",
+        "@types/node": "20",
+        "@types/parameter": "^3.6.7",
+        "egg-bin": "6",
+        "egg-mock": "5",
+        "eslint": "8",
+        "eslint-config-egg": "13",
+        "minimatch": "^10.1.1",
+        "typescript": "5"
+    },
+    "engines": {
+        "node": ">=20.18.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "MIT"
 }

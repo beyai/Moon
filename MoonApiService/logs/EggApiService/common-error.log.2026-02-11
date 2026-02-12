@@ -1,0 +1,288 @@
+2026-02-11 00:22:51,858 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 967913ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 00:32:54,806 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 562940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 00:48:57,815 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 903000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 01:05:58,819 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 980992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 01:22:12,825 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 933994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 01:33:54,825 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 661988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 01:50:55,838 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 961004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 02:07:07,900 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 931994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 02:25:09,852 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 1041944ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 02:34:54,848 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 544934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 02:43:22,705 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 467846ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 02:48:09,260 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 186478ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 13:51:54,178 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 943455ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 14:23:52,073 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 977704ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 14:40:35,081 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 962930ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 14:57:35,084 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 979930ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 15:07:32,045 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 416874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 15:27:43,043 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 970968ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 15:36:18,042 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 474984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 15:53:13,112 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 974995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 16:10:35,120 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 981935ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 16:27:43,128 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 987936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 16:37:18,072 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 534933ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 16:54:49,076 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 1010994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 17:11:00,145 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 910993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 17:26:51,088 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 910936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 17:38:18,094 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 646997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 17:55:17,105 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 979004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 18:12:25,170 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 987917ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 18:29:23,176 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 977936ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 18:39:18,119 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 514932ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 18:55:40,129 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 921994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 19:00:28,583 ERROR 21665 nodejs.ClusterClientNoResponseError: client no response in 248443ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 21665
+hostname: Mac-mini.local
+
+2026-02-11 23:34:27,319 ERROR 46894 nodejs.ClusterClientNoResponseError: client no response in 996281ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 46894
+hostname: Mac-mini.local
+
+2026-02-11 23:50:27,248 ERROR 46894 nodejs.ClusterClientNoResponseError: client no response in 919838ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 46894
+hostname: Mac-mini.local
+
+2026-02-12 00:06:57,282 ERROR 46894 nodejs.ClusterClientNoResponseError: client no response in 929928ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 46894
+hostname: Mac-mini.local
+

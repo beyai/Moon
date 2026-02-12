@@ -1,0 +1,1 @@
+{"name": "webhook","unitPath": "/Volumes/Data/Worker/EggApiService/app/WebHook","clazzList": [{"name": "WebHookController","filePath": "Controller/WebHookIOController.ts"}],"multiInstanceClazzList": [],"protos": []}

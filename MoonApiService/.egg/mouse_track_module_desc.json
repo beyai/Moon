@@ -1,0 +1,1 @@
+{"name": "mouse_track","unitPath": "/Volumes/Data/Worker/EggApiService/app/Module/MouseTrack","clazzList": [{"name": "MouseTrackService","filePath": "Service/index.ts"},{"name": "MouseTrackController","filePath": "Controller/MouseTrackController.ts"}],"multiInstanceClazzList": [],"protos": []}

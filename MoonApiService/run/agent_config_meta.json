@@ -1,0 +1,357 @@
+{
+  "keys": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "proxy": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "middleware": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "security": {
+    "csrf": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "domainWhiteList": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "hostnameExceptionList": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "logger": {
+    "level": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "consoleLevel": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "dir": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "settingFile": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "geoipDB": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "accountBlackList": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "webHookApiKey": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "moveExpired": {
+    "unit": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "min": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "max": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "activeExpired": {
+    "unit": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "value": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "replayTimeWin": {
+    "pastWin": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "futureWin": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "appBundle": {
+    "teamIdentifier": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "bundleIdentifier": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "bundleName": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "appStoreURL": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "privateKey": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "clientBundle": {
+    "bundleIdentifier": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "bundleName": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "version": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "downloadURL": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "privateKey": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "token": {
+    "secretKey": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "accessTTL": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "refreshTTL": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "deviceUsageTimeLimit": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+  "cloudflare": {
+    "enable": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "appId": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "secretKey": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "ttl": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "threshold": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "regionBlackList": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "timeout": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "cache": {
+    "host": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "port": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "password": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "db": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "prefix": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "sequelize": {
+    "dialect": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "host": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "port": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "database": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "username": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "password": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "timezone": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+    "dialectOptions": {
+      "charset": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+      "dateStrings": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+      "typeCast": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+    },
+    "define": {
+      "underscored": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+      "timestamps": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+      "freezeTableName": "/Volumes/Data/Worker/EggApiService/config/config.default.ts",
+      "defaultScope": {
+        "attributes": {
+          "exclude": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+        }
+      }
+    },
+    "logging": "/Volumes/Data/Worker/EggApiService/config/config.default.ts"
+  },
+  "helper": {
+    "shtml": "/Volumes/Data/Worker/EggApiService/node_modules/egg-security/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/Data/Worker/EggApiService/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/Data/Worker/EggApiService/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/Data/Worker/EggApiService/node_modules/egg-onerror/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/Data/Worker/EggApiService/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Volumes/Data/Worker/EggApiService/node_modules/egg-development/config/config.default.js"
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/Data/Worker/EggApiService/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/Data/Worker/EggApiService/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/Data/Worker/EggApiService/node_modules/egg-schedule/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/Data/Worker/EggApiService/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/Data/Worker/EggApiService/node_modules/egg-static/config/config.default.js"
+  },
+  "mcp": {
+    "sseInitPath": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/config/config.default.js",
+    "sseMessagePath": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/config/config.default.js",
+    "streamPath": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/config/config.default.js",
+    "statelessStreamPath": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/config/config.default.js",
+    "sessionIdGenerator": "/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/config/config.default.js"
+  },
+  "env": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "cookies": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "private": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "typescript": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "stop": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "dev": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "tsc": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "clean": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "prepublishOnly": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "@eggjs/tegg": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@eggjs/tegg-config": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@eggjs/tegg-controller-plugin": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@eggjs/tegg-plugin": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@eggjs/tegg-schedule-plugin": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "bcryptjs": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "cbor": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "chokidar": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "dayjs": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg-sequelize-typescript": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg-tracer": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "fs-extra": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "ioredis": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "jsonwebtoken": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "lodash": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "mmdb-lib": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "mysql2": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "parameter": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "semver": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "sequelize": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "sequelize-typescript": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "smol-toml": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "ulid": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@eggjs/tsconfig": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@types/jsonwebtoken": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@types/lodash": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@types/mocha": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@types/node": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "@types/parameter": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "eslint": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "minimatch": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "typescript": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "url": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "license": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "textLimit": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/Data/Worker/EggApiService/node_modules/egg/config/config.default.js"
+}

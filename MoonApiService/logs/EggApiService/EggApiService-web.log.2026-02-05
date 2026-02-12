@@ -1,0 +1,550 @@
+2026-02-05 03:47:28,859 WARN 40840 [-/127.0.0.1/-/9ms POST /system/move/undo] 请求失败： 旧设备 0125004504 不存在 {"moveId":"251221182022932"}
+2026-02-05 03:47:36,874 WARN 40840 [-/127.0.0.1/-/8ms POST /system/move/undo] 请求失败： 旧设备 0125004504 不存在 {"moveId":"251221182022932"}
+2026-02-05 03:49:36,432 WARN 40840 [-/127.0.0.1/-/1ms POST /system/auth/init] 请求失败： 授权失败 {}
+2026-02-05 03:49:36,439 WARN 40840 [-/127.0.0.1/-/3ms POST /system/auth/refresh] 请求失败： 令牌已过期 {}
+2026-02-05 03:52:23,881 WARN 65766 [-/127.0.0.1/-/2ms POST /system/auth/init] 请求失败： 授权失败 {}
+2026-02-05 03:59:50,706 WARN 68391 [-/127.0.0.1/-/1ms POST /system/auth/init] 请求失败： 授权失败 {}
+2026-02-05 04:00:06,548 WARN 68391 [-/127.0.0.1/-/2ms POST /system/auth/password] 请求失败： 新密码与旧密码相同，无需修改 {"oldPassword":"webmaster","newPassword":"webmaster"}
+2026-02-05 04:00:16,367 WARN 68391 [-/127.0.0.1/-/96ms POST /system/auth/password] 请求失败： 旧密码不正确 {"oldPassword":"webmaster","newPassword":"gd21cn.com"}
+2026-02-05 04:00:37,437 WARN 68391 [-/127.0.0.1/-/96ms POST /system/auth/login] 请求失败： 用户名或密码不正确 {"username":"super","password":"gd21cn.com","key":"gZXwVNQsra70MVyPzvothw=="}
+2026-02-05 04:01:15,145 WARN 68391 [-/127.0.0.1/-/5ms POST /system/auth/init] 请求失败： 登录已过期，请重新登录 {}
+2026-02-05 04:05:58,713 WARN 74753 [-/127.0.0.1/-/19ms POST /system/user/create] 请求失败： 账号已存在 {"username":"webmaster","password":"webmaster"}
+2026-02-05 04:06:44,546 WARN 74753 [-/127.0.0.1/-/99ms POST /system/auth/login] 请求失败： 用户账号已禁用 {"username":"hd400","password":"123456","key":"rU/v5YqORSDhaIMmAtZE/Q=="}
+2026-02-05 04:11:07,498 WARN 75532 [-/127.0.0.1/-/12ms POST /v1/client/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"aFT1VvXVe9RRUlpn","tag":"+faMs9GuXE8ToOQ0gIUqig==","body":"UlhDXZ0N39pa4yLO1nO5xQeJGhGohCRbBRM3F+P/GW2PdXd2VBFhg0LnCnTj18G1nbhwxxWBjZo4UQa5zMoTY/huRITM4blahIunp8MjH+cGmAfMdfJReUFK8/zBLLbvfYGzPc5OOUfVM+ugYyo9pYYtuFBrQcxzE36YiICqUDk7cMG5uVfvYGU6aHc=","payload":"oWJFS1hBBA+V0G/mS4SZmYIyOnVNTtcf7hN6a+E3ozMsq1qDmV+sJoby64DGxGXLPeiieLN+XNKuZZKeWidV9lMHbwFe098="}
+2026-02-05 04:13:13,438 WARN 80549 [-/127.0.0.1/-/7ms POST /v1/client/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"EcPUYTRZyjHZc0ms","tag":"Qc2YzrAxf5OBaozZU4W5xA==","body":"Gf0eazZ8E9DmKLj6/Ud20BvCPAtLe6BAFaWBdGxmvb2BM0pmHkoJvEazFs/17cNlgoXThcuCrfVW4QB+fck9L8XgqpsRveb43xRReNVoyN0tiDsSWCl6lr691qSVS4rW+Loa6MfqMQpNxayeUx+D+xU3WaYaRNAPko1ha+8g/mPMR8V7dGdDuEL/6Ow=","payload":"oWJFS1hBBDo3eP/+N8P2/ZlFvn39h5xeFgzzAGBW2x4UANOVTbwkG8qHhSqecdCYwQdE5AEMyLQl/o6wNoVWZK0NzDaHHYc="}
+2026-02-05 04:14:23,706 WARN 81448 [-/127.0.0.1/-/4ms POST /v1/client/negotiate] 请求失败： 客户端验证失败 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"Svfx1ut2qa/TRo62","tag":"j9uHvmTn0lEnXpcLpBI5bw==","body":"7jNzYmdAP+mvGG1ICu1CtO+jqkheb6r/SaZn+Cy9tV5WUuqS6s1oZo4a7pF+9BhbMrmFagS75r9N3MTdycpHGvEn53ENhCwy5Pnex1TFTHYJpFIhnFiid1GXmbNjSsWsh+aL0s4XoWgcxbJmjbrWaCCylYtbvdy+tjdwLn9dKzcN6UvYPJ0YxXkROyA=","payload":"oWJFS1hBBEs9dDcFW+DHOrnQxL91lcSVrLovha2F4cwE47YtrI0vZ+pPsgqDYh+lL+reDfrbz/j3MG4tIHxbZqcYNkyCxWs="}
+2026-02-05 04:15:11,998 WARN 82115 [-/127.0.0.1/-/3ms POST /v1/client/negotiate] 请求失败： 客户端验证失败 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"7NHZ4jCwP6aJqBju","tag":"g/ALNiJUca5txVouES1lcA==","body":"AoCpB3cUyTdUID6c1KJ+B1G62qyRJD9rIViCwGWQwcWs0OhXhjyPSi7hg7rFaRdwDB/3Z+s7BP77vWcDGLSuMh57DeLfC6XuOBKZGY9najjWY2R1qjOV1PcgBw73j0XXqxipwO+vXej94LmKOFdVI+OSl/4Jx3P2oKFAHH70cZ++ptyANaO8mbqpoDI=","payload":"oWJFS1hBBPtbtPzkFkKQKAatRz3N8myGoqohTefZosb8l/xv5xx7Ptt9fNcgzTSBYah+9J2jlTT68IWx2F+TbpltBmjHPRA="}
+2026-02-05 04:23:09,731 WARN 88190 [-/127.0.0.1/-/1ms POST /v1/client/userInfo] 请求失败： 登录已过期，请重新登录 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"BorIQNO3m2QFJf6T","tag":"8jHcwoJ81bBIk89nNm3Yxw==","body":"8Zpf20tV7YQAoTE/K1A9Nw=="}
+2026-02-05 04:23:09,733 WARN 88190 [-/127.0.0.1/-/2ms POST /v1/client/device/list] 请求失败： 登录已过期，请重新登录 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"g6QEb4Hq0Ta5uCH2","tag":"iuwvhuioGZ8UZbb/akGFAQ==","body":"CXLEZTthx7pjn8bpqGhq5g=="}
+2026-02-05 04:23:09,745 ERROR 88190 [-/127.0.0.1/-/2ms POST /v1/client/logout] 客户端响应数据构建失败：客户端唯一标识未定义
+2026-02-05 04:23:09,745 WARN 88190 [-/127.0.0.1/-/2ms POST /v1/client/logout] 请求失败： 请求失败 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"ftIbM8aIroaXaubR","tag":"pdxGVCFRt5Wr9iaQeW28eQ==","body":"bcz4EWo08EEGS7sOxrFyxw=="}
+2026-02-05 04:23:34,911 WARN 88190 [-/127.0.0.1/-/2ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"5s0kUUEozgzE4trh","tag":"tQDrjUeDfj2coYUO4OmWXw==","body":"HY7wFykzZKe50r/Byx9TBkGF8fwpanBpfMoTAMR9genhRlfwfLCrjbRvNjNalNzRu2yMF5d9x1FPfBQAUK1EcAxX5hJzt0CjGGxuVoQbngDEvrE0bi0LRuiNALyRbpvgXxWWbLdtU8XTNLwrf1ECCQ08BHZNAxo="}
+2026-02-05 04:25:14,273 WARN 89391 [-/127.0.0.1/-/16ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"Zoqly3LAMqhpAs22","tag":"o4hQNpl22TzzdB4qERRCoA==","body":"2Bs0OeVT05YBJU95vjHQ3WmkwbYcvuVFFfNF5MjLHRxJp+y8ZwcNiOQ5kcv6NEKgO6Q3ZeBFBZg2Nr21Bv+iJZ6yMxDAiRyFybjPcwxTkOGhM/17vbjCFTR+XxaUlqg1FhCdSiJYhc2TT+m2oS/y/z5SC6LwE/VJWSPZyjnV6pzvW3SHO2VVexAdhVpMpST/rZjprI35uxCWVObCz8WZ"}
+2026-02-05 04:26:16,792 WARN 90018 [-/127.0.0.1/-/17ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"wKjqE6c64ZGvqYBt","tag":"vrp1UsxOY8ALynYg6qQKgQ==","body":"9NixThc2g/8tME58WcWEL0dPSArkSnX5cYqocPgKBPDn2mdYgAwZjnC18xRxTlVIodrAt3zNEtrlrGVd0vHk4GV0MFUqQ5PJGTfxBv+YegUOdYpHSAiIBQ9KxAq12NsDkGvxgXbHC23KT4bgloSF3QvjFTvrZIRGWz6dnhN+SUeJzsF5/eFF947lbKwzi5Ni3QGfugprH5zueCfSR5QuBY64GGpaI0hJcw=="}
+2026-02-05 04:26:34,292 WARN 90164 [-/127.0.0.1/-/17ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"rPagMZw3SqR8yyLK","tag":"b4QJKGAf6Vp29vyodXsNeA==","body":"d6JJWlExaySgm5OJeJgGSqmbS6IeIllUrVF+YsM3h4kABMpNfO0cb2ih0VYEQQkyt3mXkEGW9RCCNzs9b/wUijg0jJwDQPCCK/3pjEzvX7vbQhe0DlwYYOIGA5bEJa3rsqBTjhNb/7b0lTE/lw=="}
+2026-02-05 04:27:25,980 WARN 90692 [-/127.0.0.1/-/18ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"SF9efPxlidHSWWht","tag":"8+MGTywLc0KQYPF1K368ow==","body":"eYdDuMf9WPhZzhmNwDuGzhWXj8biitBACWbttXhT3Bs1kz4w02EaVTNjenAKo+twR7cpP6fgXqD9xuieLoNS/bGS7+hR6ui+Cw4jXm9camnvZWkFFptYET2L5i2Lymlppnu9nF163lu4vuxOxm4XxsLikw9ceKamsbWJBvnD1nCz"}
+2026-02-05 04:27:29,914 WARN 90692 [-/127.0.0.1/-/4ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"Bc+aK84wa/0L8orE","tag":"WxLyrse6P43Dg/24V6QoLQ==","body":"NUoPXLba3I6JlahEmRmlQqMP8ZcfLfDD6Itegvglt55biYrJ0vkjSfUdSsnuxJiXnGEFtVGmWRGZDrKX/B46yrZsQnXMt0HzA6PpXLxsRDdxc8SAX+FoPoHFT+h83NCs3hjn3v3WCFzN0hYNFuJ3jmCSV+JmrwjqyojxuPxqtRp8wYlKWiKIaXJ80A=="}
+2026-02-05 04:27:51,900 WARN 90947 [-/127.0.0.1/-/17ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"MohdncEYw5jSsU60","tag":"5zuemQ6esQhdBJAnBI9WQg==","body":"GEg59XcnkkJdE4WsEe1OtaFUwjVbMckt7gcUBDDBfqYPqPoTh5Uz5bQhA0VEPR2GBBfCdmuQUgYdGxs0EyNTZO69hdxdMFBDrPzOPodHiyl3biL6ef4p6DxxApOFEa7iR1leIFGwInWx583Ybw=="}
+2026-02-05 04:28:53,704 WARN 91287 [-/127.0.0.1/-/4ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"BLT6AWmTIVEUavqh","tag":"HasOzTSRT2Zanv6nZ1B0Cg==","body":"elPjdUcGGzspwsiRVejPo/fwhsnD3Rbtl3xVgIeeV+GsoPGRFtxq83QQ958SvDUMtifgPhyIlZ/JSOXiw1+KfUnNPJGfAMqRKgHWG1vsaX4n3oC5KGmJbuP++NctnEMgJrtn0N6WhJftxK32fn3N1JaWL29ZAlhlyJ+doqCEuZizrk/cRc418VOu1g=="}
+2026-02-05 04:30:10,294 WARN 92327 [-/127.0.0.1/-/15ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"Rumq8MSduygJzZJw","tag":"oNKx/0upuGiHks85O2jbsw==","body":"GgWiahT95prLp63vhtQphQOzH+yh8A24VdTNTSgVXULlNpEjINsf6SIu8iOKrzoB7dqKqEV9bmXdXpqE4dojPuoiuup2ITt8zwufKiZFUvBAqdNl0cxTGeLu2XiVHWzDobWXKMjIUp2L1VvBSxFTYNAjAHg+rgVOSJmweUfS+XRyYMYqMjCTIOCtQpuGa6CC/AFBcX5jRW8qsBAgLdCO"}
+2026-02-05 04:30:50,024 WARN 92716 [-/127.0.0.1/-/17ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"uXy9mvh0bTugdcw+","tag":"Qa5GsasaifJcttXa63KZGw==","body":"vPxkPBp7W8WFEZJ8T6mC55H3W0kVw2DUYKV4gbyuJb5RtsrLb4TPsjDepMm/Y5GZbrPDh5lorGkeNO83/I6cYssgl/CapQN3WfpTA37HuBU2GuzZkNM7hRlZ/QAr8tDcjsWkfBWra5MdBTJzwXYaToiYNmk3bmjn8UUNdvH3kNKs"}
+2026-02-05 04:34:25,120 WARN 94693 [-/127.0.0.1/-/16ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"QGA/rxPQwr1/HawN","tag":"eudvrtWC3vQICVhVd/HV9Q==","body":"zeoEnogwPVFfKwFFAekMBwV6E61FV33GJAzYo1blWHn3MzOvyrc8wP2HmpSahdNhwosOf4kP7zGoHwSMIiUtS48gfMlecAAnakTFnsDFManiFb4udh8jmZOFdR2ru6zlBUz/hYtGxrzWalOiqAn7q8UWxX8FQEs="}
+2026-02-05 04:34:57,573 WARN 95121 [-/127.0.0.1/-/15ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"RMs08S5DZ7EeAyBF","tag":"IOotPnpr23ZI4DZwjUbHng==","body":"2HcW+9bOeLIrTcoMlzmtDNQWpzpXBr8jZv+UdOfhI2phYyuWNko033OxdAKnHFltc5KqMnYpBR47UBxP4zmVxAfTw7tcMXNZfbNKsrAkU0ebfSpGQrH23oJnTnSCo8/PiCF/WTZQD8FTY+7mLAQu7RyUVYhcEbD8dW6l2pD7mFYm"}
+2026-02-05 04:35:27,805 WARN 95459 [-/127.0.0.1/-/15ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"YZKKN710GCis3UYQ","tag":"TkoPidlJWapMkTldjjgF1w==","body":"XjxbxjGNUzEgxdpOQVBcxdZqTKAKLZI9F1PiY2SqDfbkgy4CxF1u6fU6UrX+RIEagfJMHxYNAD8GXYjanqn1KLkShrhPt/2OfltOrtq1fUhdxHTGpjpRZbJB7PM6FipyUaiWQ1ZY46eUvEJDDx4KyiRN3D2JfaagHm/TrkMsJLnxSEgSeM+81atd3mi6s9QdfIg48DM="}
+2026-02-05 04:36:33,744 WARN 96106 [-/127.0.0.1/-/18ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"0QNonk/kUTPcQVEt","tag":"ddyyWTMhmzW2TmPB91a3zQ==","body":"nPX/qhcDSBeEpvbzpVgTVLXWp5dIXt0Oe+vo27+MyyWunk911vQFuZ5VMxk0914dJDANTiIzfzJrQIJ//POAxyVoQR2E6vlNZhm2Oq3Cs+Oi28nye3dWFGAfi+Y1nuyBuXwDWj737gYLFcERhFF1DwH0mDEfCANh1b9MoNE3nGgSoXY2sTOgflcdjq1j6PkFF0j5v1E="}
+2026-02-05 04:37:31,564 WARN 96703 [-/127.0.0.1/-/17ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"cwSkBEXZ5BbnmmiX","tag":"0p5WfkXXZCL8cazARegN/w==","body":"reUCmemFKJYPG3rH/xaqI/7J4raT9Sgq/R3/XHaTkvE6LDFgmwIXH0l4Ih7e8AnXTgQNI9/Iy2eBOFvgJiWYIWvJXYIMbyiXY3nsBw+F66KX0NBjht+N3NGGO+uo2oxxSB9F1eKISpEXrB7nfQtT1QCJnuodPLgd4ck+RtSz8gvG6aKM6Aa+C7fHBA=="}
+2026-02-05 04:38:17,269 WARN 97125 [-/127.0.0.1/-/18ms POST /v1/client/captcha] 请求失败： Cannot destructure property 'tracks' of 'this.clientCtx.body' as it is undefined. {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"/2xzJ5wl5gU2cpDf","tag":"8gIhiaIw03dyAHxZf1u5XA==","body":"DeVkNMg1Cx7kIaQwORlQ8ad8yzgTMAVMZkUSKvhMhTM0pxlyrkLb4VKfcCAf+IcifubnsROHubiMUOYG/p3n7FMeX0JrMaq+YRp8HRejnM1y0OOXoNOKhhIYmOWH2j5vh2eqn5GhTTAspCz91ppLn79ag2q+IjdwWKpXRKxFl9v2a7BsHF1ZWbkSfX3Q4oSmx+nemi4x/d7fhfju8gxsaCAOWSlj2YxiTWB04gg4pijNvG/EkmhkQBZLJrBobTSqJzua90SL7BHLk6x+4DAsITcP0BL88PRtW4nE+HzV8yTNSgZ3zTLRH90ahZuECHq0vnC8fo2hnylu"}
+2026-02-05 04:51:11,549 WARN 5012 [-/127.0.0.1/-/14ms POST /v1/client/register] 请求失败： 账号已存在 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"0ftYB4R+tKDcXbQq","tag":"CAzo5le6Qj0VN/2d9hVpgQ==","body":"k1a37kmySkPqEr+VvNJF8qPhBz1zmCKb6IA1GIMgthtN+8A7RbkPYDB5Hy3lXvFylPBXlGqpDzDNyL/x/tGTnJcZCnCh0plY0Bi+Tsu65TeodQk9jf7AMgsh2Mgb7YztVF4oAg=="}
+2026-02-05 04:51:51,229 WARN 5012 [-/127.0.0.1/-/79ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"JAlLfr0dVT8ePvZd","tag":"jcajkParNZKRNpYCV7kszQ==","body":"spObSjr67ixV0c+1EkX32XC8aPrvzpoQkHWsigSlOZAKdcKSuHk1BmqHQmMXAzPYrtIkPKWIuAhi9uMWA14nxqV4StzBJnA5xj7ANGPWsmLPgl9NcQ0="}
+2026-02-05 04:51:53,214 WARN 5012 [-/127.0.0.1/-/82ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"ZsddSiJkDXNmlSVm","tag":"OWWDrlRrj03X0msS6vpTZg==","body":"W71bCInqOnbIIpvGrtVDkqv9TkuoZ02imr+IkpBUBDsBd6D1Hgz/sXpYXB03yxMA0e7cXNU656xaekW4Siwo7XUykkMG8qdL8M4ID1X0dSPWo/5gD8o="}
+2026-02-05 04:51:54,548 WARN 5012 [-/127.0.0.1/-/82ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"Hz1+XdPVZC45YYA0","tag":"5T8zNg4tkxm8F/904yNz+w==","body":"66WB0oQcTY94zAEYLda8ewkglCqAlMOdm9d2SfYbXvkVRUF2n+qZtWaSLUzjCQ4+VMtE7J36QFEGUsmF4a2EFKDgqilhFFLHPoCwcwijSDf1g0//oP8="}
+2026-02-05 04:51:55,046 WARN 5012 [-/127.0.0.1/-/79ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"dd1HKh+D/CuTX7LM","tag":"GHvFI1uvx+Ag8Gc3QPCb/Q==","body":"afdnlY2UfmWcJsr/fr8p2wurgvl18ysdJLEfpZMSqAg520LJ8BsnjVd6rL4FQ+LG6Z0C5ntAObFEE8ZXyxS2WVakOOSfsz6imTlTl3H3tybq4eneJSk="}
+2026-02-05 04:51:55,281 WARN 5012 [-/127.0.0.1/-/67ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"HrFCHBoS+g2Sc1d5","tag":"322fU1btWUWidSlKLit0JQ==","body":"FRYjkRcS7c7WohmRezLjy6ohEccOywCuvS9k09coP7zfgAsKjdF74b2+pJPOoLDBuNa8Ii4HtbnbVotF999fP1QPNnPaRpNJhBXstuvTQEj8px1x7Pc="}
+2026-02-05 04:51:55,571 WARN 5012 [-/127.0.0.1/-/75ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"LgzElqz7ksHBT0Op","tag":"wD/Dk+rLPMG+4+jnAPLxgQ==","body":"SIL3ZB0Riwc9P0L5HtE8oWa5T/lwREex2hOjxMvk0p8LIO2HUI9sHg/5rDsIlDOAKcLMJPLMw+gkCBQf42gYA0qhJZBNjGLw94xzZ7KKCOo8g+DhT2U="}
+2026-02-05 04:51:56,155 WARN 5012 [-/127.0.0.1/-/74ms POST /v1/client/login] 请求失败： 用户名或密码不正确 {"deviceUID":"035133fc-3a71-4a9e-9026-84efea52bd11","nonce":"uidSpl87/ipWFw7c","tag":"nWnnOxF37qe6kvNSFwcEAA==","body":"7Zi8TiElKrERXjVZ3z5xw3c2Q/Vs8gDlv5dmz9Rgr7jYorcnGEhpNEbSANuRdSqJJ2ZO37FTA0iJuw02whtkp+W0VETB3Mo/iBxXoeRp1/bBa+gYYTA="}
+2026-02-05 05:03:55,035 WARN 15367 [-/127.0.0.1/-/3ms POST /hooks/io/auth] 请求失败： 验证失败 {"token":"GMgO2wfjrFoa+sL9DHrIZlIOFl+MvZSReH6yV0JQ96+w2un86ASZRYIUXASIF4CGIlwnZR3M7tf5vNjGG5PpjYeM0/y5DOyyN/nReondg1J4er4G7OmISzOTgWRI8zXcKHGeOo8qBw=="}
+2026-02-05 05:18:47,766 ERROR 15770 [-/127.0.0.1/-/19ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:19:00,349 ERROR 15770 [-/127.0.0.1/-/5ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:20:18,168 ERROR 15770 [-/127.0.0.1/-/14ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:20:48,386 ERROR 15770 [-/127.0.0.1/-/9ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:21:13,405 ERROR 15770 [-/127.0.0.1/-/8ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 15770
+hostname: Mac-mini.local
+
+2026-02-05 05:25:45,341 ERROR 34466 [-/127.0.0.1/-/10ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:89:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:83:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 34466
+hostname: Mac-mini.local
+
+2026-02-05 05:27:09,854 ERROR 37141 [-/127.0.0.1/-/14ms POST /hooks/io/join] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:323:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:90:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:84:29)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+message: "断开时间格式错误"
+pid: 37141
+hostname: Mac-mini.local
+
+2026-02-05 05:29:21,750 ERROR 39378 [-/127.0.0.1/-/19ms POST /hooks/io/leave] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:324:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "断开时间格式错误"
+pid: 39378
+hostname: Mac-mini.local
+
+2026-02-05 05:29:37,133 ERROR 39378 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 断开时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:324:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "断开时间格式错误"
+pid: 39378
+hostname: Mac-mini.local
+
+2026-02-05 05:32:23,858 ERROR 41434 [-/127.0.0.1/-/12ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:34:45,140 ERROR 41434 [-/127.0.0.1/-/9ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:35:12,919 ERROR 41434 [-/127.0.0.1/-/5ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:35:38,063 ERROR 41434 [-/127.0.0.1/-/1ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:36:33,259 ERROR 41434 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:37:10,208 ERROR 41434 [-/127.0.0.1/-/4ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 41434
+hostname: Mac-mini.local
+
+2026-02-05 05:37:55,681 ERROR 47017 [-/127.0.0.1/-/12ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:38:01,568 ERROR 47017 [-/127.0.0.1/-/2ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:38:34,739 ERROR 47017 [-/127.0.0.1/-/7ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 47017
+hostname: Mac-mini.local
+
+2026-02-05 05:44:57,952 ERROR 52846 [-/127.0.0.1/-/35ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 52846
+hostname: Mac-mini.local
+
+2026-02-05 05:46:32,668 ERROR 55007 [-/127.0.0.1/-/5ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 55007
+hostname: Mac-mini.local
+
+2026-02-05 06:04:42,028 WARN 64355 [-/192.168.3.82/-/11ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"Y8meW1H1+1n9YpZq","body":"C7kCL9+w+RRLwi2ZLkoqc9yHqFfhPXPtI29qPdAGXc9dM4Y6biiVufLBlYzLdbH2+AQMfq+RKod1TrPTthDqreJAmTJUoRna/O7r3DU90bnMc3K1TyvmELFt24wmm9K0ra0vOuBSY0+1v94kvbyg7sHVCGnO/hw22lChauPhDZ2UMFSqK3x6gUJvASOs1jkSEz6WKqjraED1O5uvUYpu2fSCQltD5ps=","tag":"NfB516KNHWhrAYssbytCng==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBATcjU+Jm18kHtw71da44YZ53+GeDouiILBy16uMXePfbwSpPgxfYwdoiERxDegfsM3Q+jhVV3uSekiVFCl7PBw="}
+2026-02-05 06:04:43,248 WARN 64355 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"c7KN1NP07dJbxbtt","body":"hmgRbt4kUzXfUx23tQFG8vJZtIwRFGrnGmpOHa5Rcm73Y55J574trZwl7LJKkColhcv2W3kmySCA8pGogYUNgYJ5SGDu2ms0gIXgdyDz4uxt4eLXRQaCq5E3ZNHTnzsLAsbx6XUli9NmFZNrCY8T4cQfTRx1U3dn6NntronoLVgqbqbhn45X06tyHyC80/YtVS4ABgETfBD1pFOqgNiwFnIteB2za58=","tag":"nh4D7fIdf4SUtoBwD2/zBw==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBLrlEQlYtl6V/wY5koOKJk+54LMF8OewdZ6XAJUJqkLLXAyS4I7HQ0Ef4iEEp5WOngofx9SFOWEYJeB4kFTnVFs="}
+2026-02-05 06:04:44,177 WARN 64355 [-/192.168.3.82/-/9ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"2gDf2XswoCV1yJpq","body":"0M/uSO2GT77+CqOtVlwH/T2d3TArAepJ4plFy7zsaRD0beguXyVrUetWsuuIOBub2DqGs1Uo5V59NzU0G8MfIDMgZXg2BBsL0mEgd6OIX+H35A/j88uQYadon35scdsc/uY36vrmJkridBCncbobGEpUz3mIdTv5//HhT4OIHkok5ZhXLcuTA26zfyyIPAkrxRYcHVkP+T3fj2P+9d1MSyBoYNYrr6A=","tag":"dAXhrM76NFTecneNrxnc0w==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBI9EC9EKfJo+HHodDiJ/x9gnzeH8LQyf5c7ti73WlCqEVjgXffueYnlh+KkSNySh9WQ050fhVj6ovLr0e0dNS7M="}
+2026-02-05 06:04:45,504 WARN 64355 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"4vB3Ttoi0QGDV5SV","body":"EVJwq0O1l4NX8ivrrFoQKnKP6JiBl9xGvrqJeoFpFP5NIfeF9CXf5Q4exPkvgaVqWuHzt+VSGZWa+gEUXI3k7HHkp6/iDeXZuKmlw93OzMTnWEHvNjNy5IWZmDPshaZRd87mje2EmfZdXVcXlvhJoGLyNbh+4VT+XljKmlUaZP8QGpQB+BsUGMlpKN7GCrfmE6s+AhNz1YERvpmWRhBuf5yGD8whVXA=","tag":"Xv9sXkwzYpP23mmlCxmfwQ==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBONs3YWwr5/00EbmEmLpvP+PPZxzzHoY5coClSx/hzNgd0wXB+zfudVBz6njWRB6praXertfUCop0XyKl7r2Eek="}
+2026-02-05 06:04:46,224 WARN 64355 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"CBR3f02nX18jlMEG","body":"vkUxIJCNiOqkfjHhXWEHUDMXO+udDKXNpVyiQMfZG8DtW1nXvHVoXYObAaAAS8+gKn1UcPLFO03kC8xGUVLOFUGcx3kySuUcUn5HSm1WXu8wS0u/hGTgkaNB7LXDGSIeTgkOGzXHD4GGfZysODWOQMxWimm/Qgq/oybPS/ItdxXwlt65ZvRgpjEtO6642aA2c7c1Xl5vBY+5qPGasXxbDpU2bgh714g=","tag":"YF7yJeXkU1V4LXDt/N6TLA==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBKFNU5WRke/IPHTnA6ORDrKdxOgGryJPIRf24+Oe7ZzxNqVYFZGxTelmJoLd14Sb2syZPg4wyoM+5LOLY7TID3o="}
+2026-02-05 06:04:46,840 WARN 64355 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"glZzA7HLFafeYDS7","body":"6o9QDnLk43Gz4IBacBAiAr7CaUn1szZMYGwq0ppwoUHDtFB6+X5Jmj4P1ZtXj2occuQ65rG6LVA4BO1sD43ApuXKR7xTPSfSB8pUaM49dBxqP7oFL1gO5g8WlGTmgKEcz9rb7eO4hrPx/Pk9hitRswP0UKqIH1iYAeQKk54/Q8aXTCgexD/vWkLLMn7yAAEAx5j7O7+2wqvgTkZYWUF71jj7X5+Qva8=","tag":"wSEpd+uO5EiPJGywdBeTOA==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBIivjfEd8KpW7dy6PiO+Nf5oRWhYiQ/IJ1yCGHmvpkhgPuY2q2lsdLvboZ9aKKRByn2Y+TBBVbEbyQEP+bGx+L8="}
+2026-02-05 06:04:47,137 WARN 64355 [-/192.168.3.82/-/6ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"QPFUFtOMNQrxQcqz","body":"ZP0UhUL1bJHHh21RD55qYe6bL9sz8i4atVkX/Hh22GTMRw1KDnN+FiGWNMEZgHaBXfwyO0hw5tLfHb7eC8YmWe0b3vtZL1BBR6EJtAUJacclj4YnMuwAG59UbD5mM3+q8MbhTIEJmHd0P1J80PfxTUbnXtWXAfnZ10UrwJLqZyPGT96QFBYIOea1iO4JYPzfLBd1RJV9HxCjUJv52nhPII5Ve0zw++Q=","tag":"HljKdSgJb2qgyt3hi9c9eg==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBCAGWoWSBCOk/CjZMFck1igx89VqxsEdlNKKDW8rG4z3F0wo4yKu4TxVWDzKaYkKLSlNebiQpOLkle9oOgegUI8="}
+2026-02-05 06:04:47,861 WARN 64355 [-/192.168.3.82/-/6ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"du6XARuommdVTNKYHRnzSg==","payload":"oWJFS1hBBJi7Ue3pCf3mKbd9uVGmUaD42Ny6YPxt0+megLsJVPFRIoSp3g7NDdAMOyMZXx17R69FBYKh4I1sFjNWhX8h7UQ=","body":"boxG1eIkWWsjV1MElHTW/f3JA8nht8/qkcQ63Wa7t7REpbIWw12wWaUDD/xnFfY5sTpbAPKQwVK3wMEjiu4oe7+r8Nqa+7fbQI+WU9iEzXWTJf0R73ywIZvKHUAnmb0rXVnIi7nTUFNfJCXLl8MGL6hfKl24QAYJyUJ9uIMZ58qdY3IDynak4TiZeiX/S8G/oNx09/UCVeQrs2XJbsFPLFjrMJBWv6I=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"yvsufUi7OnH1Q3ki"}
+2026-02-05 06:04:48,477 WARN 64355 [-/192.168.3.82/-/9ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"a7YNM35IJn7J9rsPKxErNg==","payload":"oWJFS1hBBG7Rpu/ewfOWKHTBYD+NlmORoLI0c9YRPK9u0h+pylD4CkIsuxhoaNLaCILJWj5ObpibafxKrR5OaOXm6KtFFoc=","body":"ENe011bkh+HIbMwTyP8abIJfkuhWV1mblFPcR/bj3ItgRYzFJ67XGZhUuHO66DTRBa7rt9SPA3lMMDMQJCsRxVt95ar9TT50HZZPOa8bo1VZ28SqiuBe4AUeXD+Uoc90lwutBbNlyR+yJZgBEvw55ykP+5cQvkkG3TTYyCsmT6gjooQ+68RcWL8z4o8IidjBbmaq7LV+mN4HR2ds6AUfLLDx9rxBYXk=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"W4iTOHv3NjldAJhB"}
+2026-02-05 06:04:49,301 WARN 64355 [-/192.168.3.82/-/6ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"uEqxbVSbGVHaSfuI","body":"ujSk6oVV1wHCQxYtSyGfQpj3rizJnF1nNwuKh8I9DXEULrgzWhCSDamuOEvApjGN8iFGe2N+skmXokDX+7tR2DamYVG9Osh4M4e2+P6yWU9byGpoW9AZ3YG3qrbQ29uLlsdi5XSUiadJC1CG/P1bfxz0yiTI/TOMlhEc4UTu66kvaDUVC4dNGkqFQcXenj7HzpWcf3Y+8fx6OS0SCbfYrjSzktqxbsg=","tag":"pKYkND9GVIV5vjRRhl4pjQ==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBK2LcVNYmvIT7vLPIAaBTUtUurzD7fDaVtCQm0dA/7S1Ep3JbCSNOSeKh5OMl/MR8kZgACLhngYdIReYZw7SjC4="}
+2026-02-05 06:04:52,771 WARN 64355 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"UdnnvaaZG0i/ulAQ","tag":"y/8T/JBOC2BcvdZddkIikA==","body":"KgV7+jjTjJn4sIia8v2FDaRBiGY15P8NmcFA0pJ34gnQbhqXK4Su2hvhYFwFDEKp41tPx+JFJePn54HSVcbBBULCeZ1lz1Pw3xykF7T/GrWkSkd8A9x/9rct78ilEod7Ah+jPIGYwwSYPmYayjIqX3f/btVyReln4g8p2+glFokoz2KaoqV/cpAY4lAoIWQ3PvQ8pggomccvpnHQUY+vavLYIe1eGwo=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBEmdwPIL8bUTl6IEhwVJ7PsE9onZJ9wAMSBD/Z/vtAfSIlmRhGgw/W7wMrO6MIQ/VR/vTrwNHUD2aDCeu36I9oo="}
+2026-02-05 06:04:54,276 WARN 64355 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"EzFcRI39Q/TRRe5A","tag":"i3Hte79zJIAoji+/Pr9WGQ==","body":"+PcKiBovpIQ9Mboy+j0Ktvpsr92j+RnZtk1nSvYyCKnqCVKIkUt2giVBd5TAJDE6hUftsvhCcu5rHDKMdW/MOdFCk5LDNKUvxGXtbX9BqkkZBKLmHJ5jw5BNQ+sM3jUM8onHtBuV/ywKH41ztkkQW9ZCTC/EOq3rS7HzAJ1Svpghaf0hLLKQ8KVlYva94D3sQ+L55LHlBUUqEqgKFxw9t37URZYFTRA=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBC0oAXxXvP8W+Zci6ptxxY315oJuTiJ7sSyywfKwPhZHLpKYpXjYeAAHsTsb58xBqdnfASnXvYWSTCT168rEQdU="}
+2026-02-05 06:04:55,140 WARN 64355 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"OMlMhAq8lcpf+OMB","tag":"275rOuZ+68oE1XxDBcWMRQ==","body":"qxQM5on/HYb4D/vRFG3ifvSv6p1Y1Ul5cm7XuBX7V3so2UAPhhLZtWOS+Tb40pu7LwqVp1625dQySebrJtZLFyS2N+prw0syJrIKmbBwaitwsHUNGkMAyWth/o6C1I45V9mcSXOQtD9u5Dq1mumYMV2cX6zVTBzHaVxwYlXGnwcwV4y4DLHFfFi5dbR9lRMZl82s9ULbYGnHxK5EJTWKDJZPX+TRkrg=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBOCzKbyXE3HsPQGrrjUlpuwHRunJU+C2jkgcCd8T8rX0LPfauTbfMDw2VFL1ucnibvjT7UrBroCPvSQ8Uxh5muc="}
+2026-02-05 06:05:08,762 WARN 64355 [-/192.168.3.82/-/12ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"Lq7igq7LtsNbwc9ghB1neQ==","nonce":"B61K7Ytz/a774oih","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"qvJZUuvGTQ8KqYU//MhNN1aqC98r3ay2kVhuYqCMRQcvIOVFpof4z0jcfjrNBbUsu2EF+x8u4BwuJ63QuOngZjkKgbNRw2CGx2ghpz3QqMeAtUT9RFuqIBfKMa/crUMCup9ydBHVkElF8VmVdK2TCBNzqpFA6bUgx9dvMkRnl+7jONZncgMvuotY4CGM9qd5gzNGmYICh+y9rG4PzW1BtU6zbjG+oNc=","payload":"oWJFS1hBBMLVquNvNOihxsynXTWouAQ/qMMo8m5znKA8zWfaHY4Afueu74lSPWQ+AcC7iGmGhbQ7t+jpA00RwBQMATiXtbg="}
+2026-02-05 06:05:09,370 WARN 64355 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"2KoJ+ULHTNNNeQkqVxrTFA==","nonce":"luSjrCfhW+f79Ylr","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"NZkwVS93TYl4iqDdCtsFFM0YMU8tJpJBvH1JwhDmRmPN2gsu35E5FbeFiZNdvgJIi3XvZ9dXF1FaFyquuCreoD2HpMh3ECIUjn0Rz8C/ifdo0pvJsUVJHeMSXqDsPMSkUIhEhEzET3ZR5dur1H3QSo+lzLpAgcAEFBm5fLBc53doj5m8TK88Ju8U8t7v8ujfa6tROEd6hObti+k73jwbBG3lAZqnnac=","payload":"oWJFS1hBBLjj1BoaDE7AUXeUQ/5vpPTbGR+OhVbsWbvBhHijPRkmOxqpupOfQM1hH337FvdmaR2ecbwl65NVi83gK/0nkYQ="}
+2026-02-05 06:05:10,088 WARN 64355 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"8A67wOShA4Mh+bdjT7mAQQ==","nonce":"0hmK832p6CUKjPE2","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"p6UL7LpOGnnSbbJUvVz2abCEXteRQ3r2Iq7AqikbawZM/fL2IxvRVR6MgjYZOpWIsYfaXN7tGR+0xt8xL6KzG3I3Ry51X64wFQdYlrxkoyxHUjLSJp408YQ4WjLIJxe2Ce56SvG2EtY8gNU73JlRQklts98Db8GgLuW5yP6bgk8DK5toj2Gv0JmL/64RjpVKoBPb4KeMxKUIAgtK1tdSi4xTqusHeRc=","payload":"oWJFS1hBBPk5ASRHP4Qs3a0kaT4FFO0EcU9QaWawh6mMdeZ6Y0HKYOezflL4N31wjb3derJa24/GyI9fI04r9D1t0YsOp+8="}
+2026-02-05 06:05:10,604 WARN 64355 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"f2akylQgVOpL4I0lv1/I3A==","nonce":"ZqNFrAPqRMppdSk+","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"jV3pBLEwRj+dUe1RgDsyUSM1T/vD2Hh1GnKTfKeAx3i+a+RIX3g4sDBo8roMpP8ArVmeQUfmHUk/+S4WGoufrmBOCz/wlxf9omMVPJqI230PsQScY8mzsdYyyo4W+usYxOQoFZv7QbFL/+eT6SeVMomV1kYo7YSY4HNU7opaLucdl6n5h+OtBwfV363MWVwNaO+wTetUzfhaA6StidT39Vv5rgvCQ/c=","payload":"oWJFS1hBBDVreUWrjnP9Cu1h9p/F/7rJcqP8IS7+1ROsZ3cB7Z/KSxHDy5fHqBDtKehc4SQ/N4ogm4Xqy5qPbBiAf5aq8QU="}
+2026-02-05 06:07:38,733 WARN 66653 [-/192.168.3.82/-/12ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"73DnlGw8jzjQ9NY7","body":"z/b6U/Arh4xg/M+rZUwen/qOccnxCNDyLK7H6kkrrARMcoC1+F6nVA0mZl89Egq3nVa4en5Wd9KnN21ZyDh8csAL9LUtp6izTbgVxvbMuqJT9suSa7OI3Kh0tXCNfeLI9eUuvY/Wa7zjvfUgE7pVLGjBhejvlnzObrpPXW9qw08dVzRV2Zy38SdFBpExtIIDPp3ClIdxWUq42dNsKvzyzky0Md+CFI4=","payload":"oWJFS1hBBPAJv8BNQ2Coy4fmsF+aRxNo7ezTgStwTCVBBUb3HRRiQfEYG2dwsmFXmBKDrkaOmronU5zUEyQcRmjpMHBvuV4=","tag":"om+ZIWKF9pbhvVrqeFGEEA=="}
+2026-02-05 06:07:39,901 WARN 66653 [-/192.168.3.82/-/9ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"tI3J0c04165u2rLN","body":"OznR6uKb1J4DGERU5ZRp+c0UcHsNVy4fTykeY7d3N6WmNfce3uDOYYd81YCzO11ufHnm7VLSWsHLs65wFurdJgAFtBRn5muHrfH4aTxe6cJ8x2DrkNuTsHEHUnpzSjtBeKDPpED5s6R/z4GtlDNMEDTDZ/8gau+yRqy1BmLXLmpeceTVxJJqb+TMF6ilR317kqU4exZdYSmPO+NFYpZdAoIuQ08aVzw=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBPoheBbx7VO1a9D2JbRsiLzmE94pZgCbjprbQFfo1wcLUa6hZE+xVAXpVcH2hVdgncsOlEinsDv0gaywlmf7tLY=","tag":"4QrzSE2kvEuM+D4oyaG4fQ=="}
+2026-02-05 06:07:40,574 WARN 66653 [-/192.168.3.82/-/10ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"6Vr4PiSJAr3OHGVk","body":"lpCjP7fUFMhE9WGgxWdDtSLnkfi5Oj4uqsiIUL5T3/+Ggw7VdZHqp6XqGQQwVBouv5xLjmKTUOZDE+Sm++ekxl6MJ/6/fgCA7nMXndBUT1SkaXJJ3dU8GFZT/Svk4MOJYJmnoqFsNNF3HvcyzP42wHTWmON25g10s9gpAJME9VrfJl72XjjNWxNG0vgJ/SVCeeivvkqURdQHCtcPznKMP/inVLYZS4g=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","payload":"oWJFS1hBBEaM0Nz1AhxYmFL9qJyED0X7HcuBysPl4amJFTDL1t1PRCpdlP3PugsvHEU0Ruyq16Oig/B4SIZO0YxXDtz/TYg=","tag":"2gdpBPJq6o7Y8kTPN1w0QA=="}
+2026-02-05 06:07:50,585 WARN 66758 [-/192.168.3.82/-/8ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"body":"bQ0YkJS+E2H3GZ+sqpdNGh7Ri3nXIlP8h6OLVxkGhJyXF/vgPcPbif1rmu8zoV5tZaLUa22cqvjyf//EaqzHuABp6MewdM5IGHEpZQjFfnzhMh9p27xcCswe1dX7AJbNAT+kXDFImL4zhU3yOPOvbOShA6q/U3Fhoo+u9I9R6KdT77MNWzCi0KWjnxKthPmR682T2ZYBMjDdBGPcmlhdsh7PGrQPn2w=","tag":"cXrr/4fsc/SrGt0q1QyOtA==","nonce":"GzVrEhcWt5jxK2vX","payload":"oWJFS1hBBGofdl047Y1qrg9pHbGKgXOnu6Ptw2xVa4o5tuHDhts3QSO8sngcXtGhFFOYkqcGRDgJ6AFMyPn1Vv2zBcw9Sjk=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83"}
+2026-02-05 06:08:16,498 WARN 67031 [-/192.168.3.82/-/10ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"payload":"oWJFS1hBBO6mtPRoUFjwot7TafjAex+sPeWYrR9tw6/7qa0LtfFOBKuM0mP7ZnIMbd3c9923ZAegX5xwIUyWhINE00bky/4=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"7fQIzUiITFksxnR8","tag":"tVupz7NwjMtttlP9oRrLhw==","body":"GIagj8UuH8N1xhKxhS1hNV72GgYhLhHMPVwkOIDF1W7vXEWN2hD6djJXAa3SqqEP52Y08cTBHlml2VmXAnMcajETmNYgBTbIUAoydTa4+ZpijKxYi/+QVWnkvUHUEEpRQi1p9oWdhc/zlceEt1LLVBoNG1b6lDO9met3R4HsDOpCJ6IMk3juCObKb/ru9NAzYvwnxgIzJXrNbQzbYU298QL/wrQ6d1A="}
+2026-02-05 06:08:35,097 WARN 67212 [-/192.168.3.82/-/12ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"+yIHVGTYd/ffW+VCcKxCQQ==","payload":"oWJFS1hBBLUjZMGRZzYDpWAlmBJ36ttV1JXRVCI1AQfYLRGsmq9IH9tjGEE/86YwMRjtuU9C0YQhGNKbt5YCb3QZkW3U1qA=","body":"hgfRtgyCZCt+aOR/NDjOMiEaRQ3BvCJoLhu6OWIuULW5afdoRgvPHjL3Q0Utm0IFk3EwRxUnFpKAbh7hnc26TnhC4OEgjKnUThkEaySwb1GOdgyuemW3uYklul89+qDi7FxjXEh7yKAPnu58WB2MyNvvCl35aS9l6ViV5VS0YfPobWYAqcqa1f1dYE94B0KUZw5IxNWGk0iAb/CIZyXdVTVvO7KfL3U=","nonce":"YVP8GnoTFE05aRac","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83"}
+2026-02-05 06:08:46,089 WARN 67331 [-/192.168.3.82/-/11ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"payload":"oWJFS1hBBCO8HHbOCMFLQj4P1Yuptg5tOe2vyIOfyOyay2yGfYHCPDMaX05NBRAPwZcOUgSlMJdxiNonTgaOOuJ6rBj2AWk=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"xm3RgfLeEkGAKyRD","tag":"AIBn2dWpR+eLYMFMRGW+0Q==","body":"AZpYsKEUbI/0yY+bhdJByqjyz8uANFhg+MB6+UIPwQ7cxi+JPtqQC0hYlvPAvZ1KpMSpX5bUguvJrySfVD/Yn2Ja8rEyX3bC0RjS4NZDl+zFcQbqxIyEWf1pa7TW7QRYjGIvSn2KPSNXF55Bf+zf4u26IUkx9ezYnNNJ34WRQnP3rpfT2tDvkKF/6MhcBOT/c7TfAf0LL3TH9tiUCbC2WJBwR0V+kmc="}
+2026-02-05 06:08:50,163 WARN 67331 [-/192.168.3.82/-/80ms POST /v1/device/init] 请求失败： Validation error {"nonce":"h4v5RgT0r5vxikNs","tag":"gQm06msEVHa2KHcA+ScyHA==","body":"leCOGXdn/h4VdOV33YFPTlPRk9/EP7SshnxKlTXHrkAiFCLl6I55aYYoYrR25RfX/uls7aWGAouz3mLsJNfD4bTHhmMT9O6jUyesC+kLquQKjvvqIoyS6ySUbO7wG3dkC56nMg==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83"}
+2026-02-05 06:11:52,299 WARN 68890 [-/192.168.3.82/-/72ms POST /v1/device/init] 请求失败： Validation error {"nonce":"68uam0I3NhtOvsdu","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"3Y+FU3GNyL3hWlk1x5jL4qFpa9eqAskcYsfiN1AEmHH9rEy4JdKNYR/rGb9bNWltP6f1ETid5BbCF8lmDCyC4hb8az1zVK7e8Q5Dyqo8MoH5mP143aU61DnX8V+y98iWNJebsA==","tag":"3qPTgGfuLDsffp0uGWgg6w=="}
+2026-02-05 06:11:59,681 WARN 68890 [-/192.168.3.82/-/29ms POST /v1/device/init] 请求失败： Validation error {"nonce":"k+HEq9zgJNcD7G5S","body":"4Qm8dZVGT3Mp462B6oQXXyd4swMTI1ibe05iIAKqDtcHN0G/t7ZpfVR7lc3MsCCevWIamdMHaLsT2Z3Q2AlihYPqnR23s/Px+0LkAZZPCkPHxun25rr9QnQr6nGBoI6oxF6PMg==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","tag":"A2EggRbZNtBkoXHbVH/GeA=="}
+2026-02-05 06:12:12,399 WARN 68890 [-/192.168.3.82/-/14ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"VPga1OUHVDSir3QE","payload":"oWJFS1hBBPjQ5hSib2XCKPtQtFong0P7D3hltK0exZv0SZQ1hLL/YNkTXxJYPbqux6l4BaReG7IUn3IDZnWa62VvxR8Ma/Q=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","tag":"PXbjUr6kDZ/rx6Sz8sg8+A==","body":"4tD09Vt+C4Z2Zxnv98aLfWWag8EHPBC7zXqnVPJq4AATKIJTdysPyziKOHKPDeRv5wFut5a7rOFnl0mlKuR882mUEzmuTxRDb4dhHaCDYfB4Wt+fj/MHd6sZ/r7DYzkq3BHfDlYUsYxByG5h9hRIhqmo8iOXXbX6oZaVDvBACkRZvoWN4mlqjEITEqS4ngVMkATSsKl5BXzOruYlVFvDwBn+l/N5cjw="}
+2026-02-05 06:12:15,293 WARN 68890 [-/192.168.3.82/-/41ms POST /v1/device/init] 请求失败： Validation error {"tag":"oh5Gr1N0S5senBWCF1AMBA==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"fo30Iv4a2OLy3IxK","body":"t/UQI67uIjWblC9NxN64oXkGCz42zdN48X6VsDsHIFRfiliybwPhc8mkzA95EP6s2E6MuWAkemmFxvvEFnolp7Q2AN4xVAef7mpwLc+6NKBg8XJ7cjeObDBJBJeOe5MR2lzwTg=="}
+2026-02-05 06:12:46,820 WARN 68890 [-/192.168.3.82/-/36ms POST /v1/device/init] 请求失败： Validation error {"nonce":"kqsfSLEcOHdj7VuK","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","tag":"gPoS9nXER0IicnpZZTCe1Q==","body":"I68IUwJimQAwVm3E2UegOwzFepqkRfO5DVGuj5aQmcI0iZwoOiGOfWJJQAQfaee61pFBMZbtjzNqe5NHlq+dxMXl7C31r3Rl/9ItZ1xOcHJMkzttxsqJrVkbcEQ7HnxOK5k1dQ=="}
+2026-02-05 06:13:00,955 WARN 68890 [-/192.168.3.82/-/41ms POST /v1/device/init] 请求失败： Validation error {"tag":"yXpRPFZtd6CPS4ut6E+qWA==","nonce":"r4ZJRsaXfwoneEav","body":"6wdjqfrL9TsS7/O6/r7g6uN8JORTEuvZHzJM+R8QERoGj/L0wY6XBUgwJXxoAzE2RnPWujK5oAq7L84CdX8/Dt0m96RUZB9S0Oa36blivIFvr94e/cGheLo1deJX22nIAlEPlg==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83"}
+2026-02-05 06:13:10,970 WARN 68890 [-/192.168.3.82/-/32ms POST /v1/device/init] 请求失败： Validation error {"body":"P2Elq6aRA1XU/A3RUreaRj4XOvmNFEzgMIUCfJI8fqfVL4BkrDJ8mgpw4PP37LXMzDreEGH8e+DAzaANtPlNjho501aQr3F0+etmoNNUKCxfhHXIYjRdqaPUEzj8r78qaMkrkQ==","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","nonce":"2axzy4eFGV+fss9C","tag":"xLtNLW76GBjM9qRs8rZS0g=="}
+2026-02-05 06:14:44,389 WARN 70853 [-/192.168.3.82/-/94ms POST /v1/device/init] 请求失败： Validation error {"deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83","body":"UdxCX8b6BHTsuyBorm32Di76C0oR8vMBmYcONxLCeaKcmw3kW/Q6iNZheA/GzPj5Auf5g4h2Pn6BXmYlGPalezbs37VjrCzqYiz3qK8D0mk3L/c/Hz1Z2zpkbNxTUzGas+J91g==","tag":"y6ohaYUUcNuJ4yrvNLfF1Q==","nonce":"MCga2sEtF7NtdHQS"}
+2026-02-05 06:31:53,849 WARN 70853 [-/192.168.3.82/-/48ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"payload":"oWJFS1hBBJ17cC/x8kpPyfdNGvJ2Y78NGDRbezMdpnCPVyozz1x4JufI/OcWwlm+OEJRWvjW0PPKDfsNsZDiSJa4dmgTnTA=","tag":"P1IJ346Xnwh4IfQeDxohpQ==","nonce":"G66XPtuGqHWSHQbL","body":"NZ6WuZL+WipDvOEsRh3uqJ+0YlJKI/RABQJUGgfHSr4sYsgHIKiSMmqLSRPF2JCE1qUVGmFqfhzFoO5pFXawuFbBzY50Fds77l0zvQ+K8k/RFfTBnmP/NMiPnk1ysNKlMq1kPunya7Ad7HSnCLIQN6yxwwvzWFl/AzyKn/VbUb3LZgl+DpXnjLVSolXnpT/9+UAv68MkleY8KDZedt7hyML3QpGW+5s=","deviceUID":"26F64AD1-F384-4D24-BF97-2A3224580E83"}
+2026-02-05 06:32:22,138 WARN 70853 [-/192.168.3.82/-/5ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"tag":"81I6uUL1vmvrjnjY6bQweA==","body":"hi1qyuBUf2v5CgAV5tqFK3hUubYmU4fAgGMNakc8DiBiaDd0Y+rOdOhCdHHT2uJzn7ip+PSGOV011MRiUwY9B4LJQ2s7dxrR4sW2bCL0lnkO+7MvZZVAnqhJoqNn08LyCdl1g0E80cvp1qR++V2QJYSScwoPUGRSsXL7q3RsvQ1IGHVWnA5KA6FoDffh0m5GIxxQoVVpFbFPBkzFzkU3NSOMJZbw6ME=","payload":"oWJFS1hBBCg6HbLGN2zZv8ezOKk7SD2i3IKA73KP6ubD27sNuafjErIK9SIA6QqkuVPbA9LnLyL/ocxFHxkPL1GlhNxpavs=","nonce":"OIGZZIUKWrVkdxyR","deviceUID":"1C6D0A55-F4EB-4800-9F64-307AFB8D93B6"}
+2026-02-05 06:34:00,515 WARN 70853 [-/192.168.3.82/-/10ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"zXlxn+KjiebasyZV","payload":"oWJFS1hBBJGrTjRljPPR6hDUFPmy8C3VqM1cl+O8z6GeeaJfwiLNDZevLgNuvDavqg4CsUIzlIcolnPDBJalSOjWnnrOKiY=","tag":"s5zqb2xB9PTmrp1myBHnyQ==","deviceUID":"7EAE2F76-E7D3-47A9-8DE3-0891171FD3BE","body":"KKHppKDV47ldK8MQ033WJ64uhFy9dBZAvor1bLpXIc8r5doBul32GsQB+rgx1O16YY/UYDoa9eMYryYLgvKKdgVPplbq58UeMaepxiJKD8cTCQL89P5Gm0CWpPlFGybcKMl1y8g4NYeoxqwQMaBzayNYyPIXz9YTO47bU5aqBh5SX5qRJ4f3bvfbhnAeIy1x+sEYkAy/bAz5ZbTsj0mkl8N7JpryAlM="}
+2026-02-05 06:34:02,922 WARN 70853 [-/192.168.3.82/-/9ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"aZGPCvksOEvt0o8f","body":"EGHD2CljgruSWVuhcqIgiUpa3FSUv3Ez/1c7AvLiLR6V2RafpCYIliUEoY8dZ+oO8vLDCUpesI0yvBFUrFUx1CqqmvG63GxmbxfGNT1XIa8/8SeFM8jr1CpfE/ykZD8T730Q7IFek3I+RdLzDgv9dfMBUHNsWsdi7IoSB8FHAQKAI6Ld6qwK0wzzDfW2/18Bj9zD4EFK6n78ujBFhnl/rRzP3IGKitc=","deviceUID":"7EAE2F76-E7D3-47A9-8DE3-0891171FD3BE","payload":"oWJFS1hBBMPZAW5miUxV5Uhe8Znc+LQguFZF9MkWnoMsO83EEgyvBOcccJ1myEXIjZz2Ev7/4jcBLIpW8i3/SQc7qTKHmpU=","tag":"LT2UDPkBv+HmWuRzYNPGuA=="}
+2026-02-05 06:34:04,347 WARN 70853 [-/192.168.3.82/-/6ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"/VvKY0OyIAtxIXfN","body":"fCDHsffQ8YteKrnqqLpuLE3xrKFQvrCNsiyWlGEhRm8cLgeuIuIeOtZdxcyBzdJBwLD2gAYFKe5Uf4uIYFm3MpL5pUnu4EkTzAM3f/QRKjfHYiiYAXrhVSGkMsmsIA+jNT5LqPefS4Eo5SDknnaWC269FJ9p4OoZFhzDG8xFzR+Zi5JLrBFNcHUjuP9ivQfKe8T1nuU3IClwRFNOiO+UE3h87Cw+LLQ=","tag":"GO2h4bWew7K5M3CZYxlRCA==","payload":"oWJFS1hBBJ3R71EadY0p7ah8L2kcD4fOpF7pmkBiQv/+phPaVTRqWfidzge6SAOWTubHv7LqcRDK5zLKPmZpBK/yCeicvO8=","deviceUID":"7EAE2F76-E7D3-47A9-8DE3-0891171FD3BE"}
+2026-02-05 06:34:05,274 WARN 70853 [-/192.168.3.82/-/6ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"JkX5vZGkBGSO1o/2","body":"w7fZ4Dx4W79nISw1fO9pYEaVYtqLKkMmuPTQ9r4V7YYY/YoPkX2M2TpWUO2bDrEc5C1i9FUx8S9oFUW7djYjTFS8Q6BXNwagfmVkvHHs1byi0PKeO7Mavd1Llcx85e/9PO/1cPT2vDB8B7n3CLETdPVt5uV/ejIsHawshUihAVTh0vcG+ADJYno8YantEvhJGH3K10ZQnAQcDwnzhRCLTX/8+9A0/xg=","tag":"NX9QvHuf3JCxbBRJOXqIVA==","payload":"oWJFS1hBBBwFB46FR+qGIIFh0QqeL3puL+CIbxTfzJkvE3Ywnf88IuLDToYv6Npd43jtSiSv/d5VkgPywLWvnMUtlO0TbNg=","deviceUID":"7EAE2F76-E7D3-47A9-8DE3-0891171FD3BE"}
+2026-02-05 06:34:05,858 WARN 70853 [-/192.168.3.82/-/7ms POST /v1/device/negotiate] 请求失败： 设备验证失败, 请与我们联系 {"nonce":"TD//nLZQ7zcbNlJr","body":"NWljWjcowUwFCUc2TVoj1KGRLC1aT783E4TJ6q9T/gexqrgQmypwoIyaBbOLkZRdVyUc/q9hxoMb4G66TBW1fNFsKybmdVZTSyFfGg7HRsRb7tHDOny/cUV4rjCTbeT43AiTPfEWWQB3WQn4kLCSfETg7IYgswlGYdg/nkGeyBhTFHuJNBUKfy/9ShScs+rtzOEQHRCeIjaK9t5IcUPa2vZCQGYH2qA=","tag":"17EoeMjmLYOJmw70zj8BBg==","payload":"oWJFS1hBBNrgPa5UEAyQ4R7W5votrtJzCKiUhF81HezuBbyKIp5yJIufApyAm5C/To8362ok/Yd8PXE9p/Cjoi++/7lWXKQ=","deviceUID":"7EAE2F76-E7D3-47A9-8DE3-0891171FD3BE"}
+2026-02-05 06:37:57,483 ERROR 84782 [-/127.0.0.1/-/10ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 84782
+hostname: Mac-mini.local
+
+2026-02-05 06:38:22,828 ERROR 84782 [-/127.0.0.1/-/3ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 84782
+hostname: Mac-mini.local
+
+2026-02-05 06:39:10,669 ERROR 85769 [-/127.0.0.1/-/11ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 85769
+hostname: Mac-mini.local
+
+2026-02-05 06:40:00,874 ERROR 86244 [-/127.0.0.1/-/9ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:318:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 86244
+hostname: Mac-mini.local
+
+2026-02-05 06:40:33,755 ERROR 86515 [-/127.0.0.1/-/18ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 86515
+hostname: Mac-mini.local
+
+2026-02-05 06:41:29,964 ERROR 87140 [-/127.0.0.1/-/10ms POST /hooks/io/leave] nodejs.BadRequestError: 连接时间格式错误
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.setOnlineStatus (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:319:23)
+    at /Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:117:42
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:39:9
+    at new Promise (<anonymous>)
+    at BackgroundTaskHelper.run (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-background-task/src/BackgroundTaskHelper.ts:37:28)
+    at WebHookController.onLeave (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:110:29)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+message: "连接时间格式错误"
+pid: 87140
+hostname: Mac-mini.local
+
+2026-02-05 06:57:37,254 ERROR 99714 [-/192.168.3.82/-/7ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 06:57:49,830 ERROR 99714 [-/192.168.3.82/-/15ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 06:57:55,728 ERROR 99714 [-/192.168.3.82/-/9ms POST /hooks/io/join] nodejs.BadRequestError: 设备 6292308313 已禁用
+    at DeviceService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceService.findDeviceCode (/Volumes/Data/Worker/EggApiService/app/Module/Device/Service/DeviceService.ts:115:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:65:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "设备 6292308313 已禁用"
+pid: 99714
+hostname: Mac-mini.local
+
+2026-02-05 07:01:19,621 ERROR 3523 [-/192.168.3.82/-/24ms POST /hooks/io/join] nodejs.BadRequestError: 已累计达到最大试用时长限制, 请等待 58分钟！
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:77:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+message: "已累计达到最大试用时长限制, 请等待 58分钟！"
+pid: 3523
+hostname: Mac-mini.local
+
+2026-02-05 07:01:36,740 ERROR 3523 [-/192.168.3.82/-/19ms POST /hooks/io/join] nodejs.BadRequestError: 已累计达到最大试用时长限制, 请等待 58分钟！
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at WebHookController.onJoin (/Volumes/Data/Worker/EggApiService/app/WebHook/Controller/WebHookIOController.ts:77:26)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async HookMiddleware (/Volumes/Data/Worker/EggApiService/app/WebHook/Middleware/HookMiddleware.ts:7:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+message: "已累计达到最大试用时长限制, 请等待 58分钟！"
+pid: 3523
+hostname: Mac-mini.local
+

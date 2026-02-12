@@ -1,0 +1,11 @@
+{
+    "extends": "@eggjs/tsconfig",
+    "compilerOptions": {
+        "inlineSourceMap": false,
+        "sourceMap": false,
+        "declaration": false,
+        "noUnusedLocals": false,
+        "noUnusedParameters": false,
+        "baseUrl": "."
+    }
+}

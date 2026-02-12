@@ -1,0 +1,11 @@
+2026-02-05 00:24:14,976 WARN 40840 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2026-02-05 00:24:14,977 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again
+2026-02-05 00:43:52,982 WARN 40840 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2026-02-05 00:43:52,983 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again
+2026-02-05 01:01:12,994 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again
+2026-02-05 01:08:18,987 WARN 40840 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2026-02-05 01:08:18,988 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again
+2026-02-05 01:24:18,997 WARN 40840 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2026-02-05 01:24:18,997 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again
+2026-02-05 01:40:44,001 WARN 40840 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2026-02-05 01:40:44,001 WARN 40840 [ClusterClient:Watcher] follower closed, and try to init it again

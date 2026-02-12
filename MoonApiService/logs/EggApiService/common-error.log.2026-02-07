@@ -1,0 +1,333 @@
+2026-02-07 00:26:03,006 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 935874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 00:45:10,013 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 966989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 01:01:39,025 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 948993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 01:20:19,028 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 939978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 01:36:52,035 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 952996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 01:55:08,100 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 915973ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 02:11:14,049 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 925941ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 02:30:02,055 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 947981ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 02:40:03,060 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 560995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 02:56:14,066 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 930996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 03:15:45,075 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 990984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 03:31:52,086 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 926995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 04:07:37,902 ERROR 51217 [-/192.168.3.82/-/7ms POST /v1/game/dict] nodejs.UnauthorizedError: 登录已过期，请重新登录
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:10:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "登录已过期，请重新登录"
+pid: 51217
+hostname: Mac-mini.local
+
+2026-02-07 04:07:37,906 ERROR 51217 [-/192.168.3.82/-/2ms POST /v1/game/all] nodejs.UnauthorizedError: 登录已过期，请重新登录
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:10:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "登录已过期，请重新登录"
+pid: 51217
+hostname: Mac-mini.local
+
+2026-02-07 04:07:37,910 ERROR 51217 [-/192.168.3.82/-/2ms POST /v1/device/init] nodejs.UnauthorizedError: 登录已过期，请重新登录
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:10:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "登录已过期，请重新登录"
+pid: 51217
+hostname: Mac-mini.local
+
+2026-02-07 04:07:37,913 ERROR 51217 [-/192.168.3.82/-/1ms POST /v1/device/userInfo] nodejs.UnauthorizedError: 登录已过期，请重新登录
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:10:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "登录已过期，请重新登录"
+pid: 51217
+hostname: Mac-mini.local
+
+2026-02-07 04:07:37,953 ERROR 51217 [-/192.168.3.82/-/4ms POST /v1/device/refresh] nodejs.ForbiddenError: 令牌已过期
+    at TokenService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at TokenService.verifyRefreshToken (/Volumes/Data/Worker/EggApiService/app/Core/TokenService.ts:86:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async UserSessionService.refresh (/Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts:129:25)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "令牌已过期"
+pid: 51217
+hostname: Mac-mini.local
+
+2026-02-07 05:50:34,833 ERROR 71715 [-/127.0.0.1/-/10ms POST /system/auth/init] nodejs.UnauthorizedError: 令牌已过期
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:14:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "令牌已过期"
+pid: 71715
+hostname: Mac-mini.local
+
+2026-02-07 06:37:37,078 ERROR 71715 [-/192.168.3.82/-/6ms POST /v1/game/create] nodejs.PreconditionFailedError: should be an array
+    at GamePlayValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GamePlayValidator.createGamePlay (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts:120:14)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:70:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "should be an array"
+data: {"people":2,"timestamp":1770417457,"cutCard":"not","handCards":2,"trick":"shuffle","score":"<Buffer >","gameId":"1","name":"德州扑克","isShuffleFull":false,"deviceCode":"6292308313","useCards":[255,255,255,255,255,255,15]}
+errors: [{"message":"should be an array","code":"invalid","field":"score"}]
+pid: 71715
+hostname: Mac-mini.local
+
+2026-02-07 06:39:07,175 ERROR 71715 [-/192.168.3.82/-/4ms POST /v1/game/create] nodejs.PreconditionFailedError: should be an array
+    at GamePlayValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GamePlayValidator.createGamePlay (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts:120:14)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:70:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "should be an array"
+data: {"trick":"shuffle","deviceCode":"6292308313","useCards":[255,255,255,255,255,255,15],"people":2,"timestamp":1770417547,"handCards":3,"isShuffleFull":false,"score":"<Buffer >","gameId":"2","name":"金花","cutCard":"not"}
+errors: [{"message":"should be an array","code":"invalid","field":"score"}]
+pid: 71715
+hostname: Mac-mini.local
+
+2026-02-07 06:43:42,774 ERROR 5133 [-/192.168.3.82/-/28ms POST /v1/game/create] nodejs.PreconditionFailedError: should be an array
+    at GamePlayValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GamePlayValidator.createGamePlay (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts:118:14)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:70:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "should be an array"
+data: {"deviceCode":"6292308313","isShuffleFull":false,"trick":"shuffle","cutCard":"not","name":"德州扑克","handCards":2,"people":2,"useCards":[255,255,255,255,255,255,15],"timestamp":1770417823,"gameId":"1","score":"<Buffer >"}
+errors: [{"message":"should be an array","code":"invalid","field":"score"}]
+pid: 5133
+hostname: Mac-mini.local
+
+2026-02-07 06:44:14,420 ERROR 5599 [-/192.168.3.82/-/33ms POST /v1/game/create] nodejs.PreconditionFailedError: should be an array
+    at GamePlayValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GamePlayValidator.createGamePlay (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts:119:14)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:70:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "should be an array"
+data: {"name":"德州扑克","timestamp":1770417855,"gameId":"1","score":"<Buffer >","cutCard":"not","useCards":[255,255,255,255,255,255,15],"deviceCode":"6292308313","people":2,"trick":"shuffle","handCards":2,"isShuffleFull":false}
+errors: [{"message":"should be an array","code":"invalid","field":"score"}]
+pid: 5599
+hostname: Mac-mini.local
+
+2026-02-07 06:46:12,038 ERROR 5599 [-/192.168.3.82/-/8ms POST /v1/game/create] nodejs.BadRequestError: 游戏ID填写错误
+    at GamePlayService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayService.createOrUpdate (/Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts:147:23)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:75:47)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+message: "游戏ID填写错误"
+pid: 5599
+hostname: Mac-mini.local
+
+2026-02-07 06:47:48,736 ERROR 8706 [-/192.168.3.82/-/26ms POST /v1/game/create] nodejs.BadRequestError: 游戏ID填写错误
+    at GamePlayService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayService.createOrUpdate (/Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts:147:23)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:75:47)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+message: "游戏ID填写错误"
+pid: 8706
+hostname: Mac-mini.local
+
+2026-02-07 06:49:13,870 ERROR 9950 [-/192.168.3.82/-/25ms POST /v1/game/create] nodejs.BadRequestError: 游戏ID填写错误
+    at GamePlayService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GamePlayService.createOrUpdate (/Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts:147:23)
+    at AppGameController.create (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppGameController.ts:75:47)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async UserAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/Middleware/UserAuthMiddleware.ts:12:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+message: "游戏ID填写错误"
+pid: 9950
+hostname: Mac-mini.local
+
+2026-02-07 08:48:04,649 ERROR 5924 [-/127.0.0.1/-/37ms POST /system/game/update] nodejs.PreconditionFailedError: 游戏图标URL地址填写错误
+    at GameValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GameValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GameValidator.updateGame (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts:88:14)
+    at GameController.update (/Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts:60:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:16:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "游戏图标URL地址填写错误"
+data: {"gameId":1,"name":"德州扑克","type":"dezhou","icon":"http://192.168.3.100:7001/public/icon/1.png","handCards":5,"useCards":[255,255,255,255,255,255,15]}
+errors: [{"message":"游戏图标URL地址填写错误","code":"invalid","field":"icon"}]
+pid: 5924
+hostname: Mac-mini.local
+
+2026-02-07 08:48:14,260 ERROR 5924 [-/127.0.0.1/-/7ms POST /system/game/update] nodejs.PreconditionFailedError: 游戏图标URL地址填写错误
+    at GameValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at GameValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at GameValidator.updateGame (/Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts:88:14)
+    at GameController.update (/Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts:60:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:16:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+message: "游戏图标URL地址填写错误"
+data: {"gameId":1,"name":"德州扑克","type":"dezhou","icon":"http://192.168.3.100:7001/public/icon/1.png","handCards":5,"useCards":[255,255,255,255,255,255,15]}
+errors: [{"message":"游戏图标URL地址填写错误","code":"invalid","field":"icon"}]
+pid: 5924
+hostname: Mac-mini.local
+

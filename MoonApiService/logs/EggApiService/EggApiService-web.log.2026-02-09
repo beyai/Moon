@@ -1,0 +1,48 @@
+2026-02-09 10:22:39,543 ERROR 51171 [-/undefined/-/40603739ms POST /v1/challenge] [CacheService] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -54,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+2026-02-09 19:59:40,332 ERROR 27894 [-/undefined/-/22164741ms POST /v1/challenge] [CacheService] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -54,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+2026-02-09 19:59:40,337 ERROR 27894 [-/192.168.3.82/-/15ms POST /v1/challenge] nodejs.Error: Connection is closed.
+    at close (/Volumes/Data/Worker/EggApiService/node_modules/ioredis/built/redis/event_handler.js:214:25)
+    at Socket.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/ioredis/built/redis/event_handler.js:181:20)
+    at Object.onceWrapper (node:events:639:26)
+    at Socket.emit (node:events:536:35)
+    at Socket.emit (node:domain:489:12)
+    at TCP.<anonymous> (node:net:350:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17)
+
+pid: 27894
+hostname: Mac-mini.local
+
+2026-02-09 20:34:38,378 ERROR 86373 [-/127.0.0.1/-/12ms POST /system/auth/init] nodejs.UnauthorizedError: 令牌已过期
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:14:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "令牌已过期"
+pid: 86373
+hostname: Mac-mini.local
+
+2026-02-09 23:34:56,506 ERROR 86373 [-/undefined/-/10818123ms POST /system/auth/refresh] [CacheService] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -54,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}

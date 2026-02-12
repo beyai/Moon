@@ -1,0 +1,616 @@
+2026-02-06 00:17:03,540 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 959398ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 00:33:26,475 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 942913ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 00:51:34,478 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 1027988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 01:07:31,489 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 916996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 01:23:37,492 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 925991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 01:41:49,509 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 1031995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 01:47:00,508 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 250982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 02:03:46,510 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 965994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 02:14:53,954 ERROR 64234 nodejs.ClusterClientNoResponseError: client no response in 627432ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 64234
+hostname: Mac-mini.local
+
+2026-02-06 02:21:09,009 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts rename
+2026-02-06 02:21:49,858 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:22:03,544 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 02:23:51,873 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:23:57,923 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/index.ts rename
+2026-02-06 02:24:20,407 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/index.ts rename
+2026-02-06 02:24:26,689 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:24:36,258 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:26:08,958 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:28:24,302 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:28:31,324 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:28:42,716 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts rename
+2026-02-06 02:31:45,243 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:31:51,626 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:32:40,352 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:32:41,457 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:32:46,115 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:33:40,456 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:33:53,692 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:33:59,422 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:34:17,358 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:34:27,900 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:35:18,347 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:35:26,180 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:36:57,862 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-06 02:37:04,145 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Admin/Validator/AdminValidator.ts change
+2026-02-06 02:37:10,645 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts change
+2026-02-06 02:37:46,300 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:37:52,835 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:37:58,713 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:40:15,932 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:40:52,554 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:41:26,680 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:42:02,810 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Game.ts change
+2026-02-06 02:42:06,971 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Game.ts change
+2026-02-06 02:42:17,671 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:42:22,222 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:42:26,687 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:42:31,524 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:42:32,954 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:42:42,288 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 02:42:55,513 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 02:42:58,646 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 02:43:09,275 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 02:43:26,009 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:43:39,011 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:43:50,318 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:44:15,563 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:44:23,077 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:46:24,071 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:46:39,567 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:46:45,680 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:47:52,127 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:49:01,930 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:52:39,169 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:53:33,753 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:53:56,302 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:54:14,836 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:54:28,617 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:54:44,251 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:55:04,875 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:55:46,120 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:56:03,174 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 02:56:51,278 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:57:34,963 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:57:50,182 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:58:40,071 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 02:59:12,722 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 02:59:57,372 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:00:30,957 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:01:00,971 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:01:17,987 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:01:44,735 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:02:18,748 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:03:30,903 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:03:56,140 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:03:57,647 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 03:04:30,222 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts rename
+2026-02-06 03:05:59,295 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:06:23,257 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator copy.ts rename
+2026-02-06 03:06:35,119 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts rename
+2026-02-06 03:06:37,344 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts rename
+2026-02-06 03:06:42,908 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts rename
+2026-02-06 03:08:04,694 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 03:08:07,835 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 03:08:17,836 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 03:08:33,820 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:08:39,361 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:08:44,767 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:08:48,102 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:12:19,040 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:14:35,740 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:15:34,119 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:15:40,858 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:16:01,277 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:16:06,559 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:16:35,623 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:16:57,297 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:17:03,292 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:17:06,844 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:17:10,203 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:17:27,206 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:17:34,257 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:17:44,572 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:19:56,849 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GamePlayValidator.ts change
+2026-02-06 03:20:39,741 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:21:00,172 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:21:29,294 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:21:50,106 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 03:21:51,187 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:22:19,123 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:22:58,311 WARN 64234 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:30:34,048 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:31:31,900 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 03:31:50,657 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:32:19,908 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 03:41:31,709 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Game.ts change
+2026-02-06 05:41:17,847 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 05:42:08,854 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:42:32,702 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:43:54,358 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:44:02,615 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:45:25,402 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:45:46,857 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:47:07,558 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:47:51,888 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:50:45,928 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:53:15,104 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/Game.ts change
+2026-02-06 05:53:54,790 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 05:54:11,445 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:54:55,251 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:55:34,735 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:56:05,215 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:56:51,698 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:57:51,658 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Enum/index.ts change
+2026-02-06 05:58:24,857 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 05:58:50,672 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 05:59:00,935 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 05:59:13,122 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 05:59:53,394 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:00:22,404 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:00:32,263 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:00:48,468 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:02:58,441 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:03:01,014 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:03:41,122 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:03:56,792 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:04:18,310 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 06:04:51,137 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:05:09,787 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GameController.ts change
+2026-02-06 06:23:28,142 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Validator/GameValidator.ts change
+2026-02-06 06:26:02,609 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:27:11,208 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:27:41,527 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:27:59,373 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:28:13,154 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/Game.ts change
+2026-02-06 06:28:32,750 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:28:46,627 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:30:33,991 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:32:03,828 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:32:59,239 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GameService.ts change
+2026-02-06 06:46:16,641 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Controller/GamePlayController.ts change
+2026-02-06 06:48:16,045 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/GamePlay.ts change
+2026-02-06 06:48:36,416 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/GamePlay.ts change
+2026-02-06 06:48:45,359 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/model/GamePlay.ts change
+2026-02-06 06:50:17,746 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:50:33,706 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:50:46,063 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:10,115 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:12,829 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:17,094 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:19,700 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:35,301 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:54,197 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:51:56,474 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 06:52:04,714 WARN 12548 [agent:development] reload worker because /Volumes/Data/Worker/EggApiService/app/Module/Game/Service/GamePlayService.ts change
+2026-02-06 07:27:32,191 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 905422ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 07:52:19,626 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 967375ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 08:08:53,632 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 953991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 08:27:12,639 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 918978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 08:43:35,639 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 922988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 09:02:01,656 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 925989ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 09:13:22,658 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 640983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 09:30:08,667 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 965998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 09:48:36,672 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 927981ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 10:04:31,678 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 914992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 10:14:22,683 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 410977ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 10:31:31,691 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 948993ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 10:48:15,699 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 963995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 11:06:16,708 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 900978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 11:15:22,710 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 505988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 11:31:55,717 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 953000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 11:51:06,727 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 970978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 12:07:32,727 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 945991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 12:16:22,730 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 349982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 12:32:17,744 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 914998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 12:48:26,742 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 908987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 13:07:35,757 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 968986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 13:17:22,753 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 546983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 13:33:31,765 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 929003ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 13:54:00,768 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 988001ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 14:11:20,779 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 999995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 14:18:22,776 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 241978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 14:34:18,784 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 915999ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 14:50:47,796 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 928996ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 15:10:09,803 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 981990ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 15:19:22,805 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 512991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 15:36:30,818 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 987998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 15:54:54,825 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 923978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 16:11:47,833 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 972992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 16:20:22,828 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 334973ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 16:38:20,838 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 1038000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 16:55:19,847 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 958992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 17:15:57,851 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 962831ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 17:21:22,852 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 284988ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 17:39:37,864 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 1055001ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 17:58:25,870 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 947978ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 18:14:53,883 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 947994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 18:22:22,878 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 268965ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 18:38:56,887 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 953995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-06 18:53:51,339 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 854383ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+
+2026-02-07 00:09:47,115 ERROR 12548 nodejs.ClusterClientNoResponseError: client no response in 934421ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 12548
+hostname: Mac-mini.local
+

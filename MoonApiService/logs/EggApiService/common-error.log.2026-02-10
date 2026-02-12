@@ -1,0 +1,292 @@
+2026-02-10 13:59:51,713 ERROR 27206 [-/192.168.3.82/-/23ms POST /v1/device/negotiate] nodejs.NotFoundError: 设备验证失败, 请与我们联系
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at DeviceContextController.deviceNegotiate (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppContextController.ts:29:22)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+message: "设备验证失败, 请与我们联系"
+pid: 27206
+hostname: Mac-mini.local
+
+2026-02-10 14:05:34,137 ERROR 27206 [-/127.0.0.1/-/1ms POST /system/auth/init] nodejs.UnauthorizedError: 令牌已过期
+    at Object.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:14:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/noopen.js:8:5)
+    at async ctxLifecycleMiddleware (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-plugin/lib/ctx_lifecycle_middleware.ts:46:5)
+message: "令牌已过期"
+pid: 27206
+hostname: Mac-mini.local
+
+2026-02-10 14:05:34,143 ERROR 27206 [-/127.0.0.1/-/1ms POST /system/auth/refresh] nodejs.ForbiddenError: 令牌已过期
+    at TokenService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at TokenService.verifyRefreshToken (/Volumes/Data/Worker/EggApiService/app/Core/TokenService.ts:86:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AdminSessionService.refresh (/Volumes/Data/Worker/EggApiService/app/Module/Admin/Service/AdminSessionService.ts:131:25)
+    at async AdminAuthController.refresh (/Volumes/Data/Worker/EggApiService/app/Module/Admin/Controller/AdminAuthController.ts:69:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+    at async xframe (/Volumes/Data/Worker/EggApiService/node_modules/egg-security/lib/middlewares/xframe.js:7:5)
+message: "令牌已过期"
+pid: 27206
+hostname: Mac-mini.local
+
+2026-02-10 14:22:48,437 ERROR 32570 [-/192.168.3.7/-/11ms POST /v1/device/register] nodejs.BadRequestError: 账号已存在
+    at UserService.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at UserService.create (/Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserService.ts:112:23)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async UserSessionService.register (/Volumes/Data/Worker/EggApiService/app/Module/User/Service/UserSessionService.ts:74:9)
+    at async AppUserController.register (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Controller/AppUserController.ts:55:24)
+    at async Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:14)
+    at async Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:16)
+    at async AppMiddleware (/Volumes/Data/Worker/EggApiService/app/Api/v1/App/Middleware/AppMiddleware.ts:9:5)
+    at async ErrorHandler (/Volumes/Data/Worker/EggApiService/app/middleware/errorHandler.ts:6:13)
+    at async /Volumes/Data/Worker/EggApiService/node_modules/egg-development/app/middleware/egg_loader_trace.js:7:50
+message: "账号已存在"
+pid: 32570
+hostname: Mac-mini.local
+
+2026-02-10 14:34:34,524 ERROR 32570 [-/127.0.0.1/-/3ms POST /system/active/active] nodejs.PreconditionFailedError: 激活级别填写错误
+    at ActiveValidator.throw (/Volumes/Data/Worker/EggApiService/node_modules/koa/lib/context.js:97:11)
+    at ActiveValidator.validate (/Volumes/Data/Worker/EggApiService/app/Common/Core/BaseValidator.ts:37:23)
+    at ActiveValidator.active (/Volumes/Data/Worker/EggApiService/app/Module/Device/Validator/ActiveValidator.ts:34:14)
+    at DeviceActiveController.activeDevice (/Volumes/Data/Worker/EggApiService/app/Module/Device/Controller/DeviceActiveController.ts:51:24)
+    at /Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:63
+    at Function.timeout (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-common-util/src/TimerUtil.ts:17:20)
+    at Object.<anonymous> (/Volumes/Data/Worker/EggApiService/node_modules/@eggjs/tegg-controller-plugin/lib/impl/http/HTTPMethodRegister.ts:114:32)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:34:9
+    at async AdminAuthMiddleware (/Volumes/Data/Worker/EggApiService/app/Module/SystemMiddleware.ts:16:5)
+message: "激活级别填写错误"
+data: {"deviceCode":"6382524628","adminId":"fded2dab-12c9-43ef-9cca-e30c021ae0eb","days":0,"level":"high"}
+errors: [{"message":"激活级别填写错误","code":"invalid","field":"level"}]
+pid: 32570
+hostname: Mac-mini.local
+
+2026-02-10 15:48:16,925 ERROR 32554 nodejs.ClusterClientNoResponseError: client no response in 304794ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 32554
+hostname: Mac-mini.local
+
+2026-02-10 15:48:25,436 ERROR 48121 [-/192.168.3.7/-/3931859ms POST /v1/device/register] [CacheService] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17) {
+  errno: -54,
+  code: 'ECONNRESET',
+  syscall: 'read'
+}
+2026-02-10 17:29:02,726 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 911699ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 17:47:10,699 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 1027894ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 18:05:12,654 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 1041943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 18:21:16,712 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 923934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 18:37:43,668 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 946946ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 18:54:47,670 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 963984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 18:59:36,668 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 248987ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 19:16:12,679 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 956001ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 19:32:23,681 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 930937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 19:49:09,694 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 945942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 20:00:36,697 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 646983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 20:03:16,239 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 119533ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 21:00:57,782 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 961286ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 21:16:57,720 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 919920ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 21:33:07,732 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 930000ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 21:49:26,733 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 918933ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 22:06:37,763 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 990997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 22:23:30,754 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 972982ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 22:30:54,748 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 403986ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 22:47:52,764 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 978005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 23:03:39,769 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 906998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 23:21:10,769 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 1010991ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 23:31:54,774 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 603992ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-10 23:49:34,846 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 1000062ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+
+2026-02-11 00:06:03,878 ERROR 88888 nodejs.ClusterClientNoResponseError: client no response in 948940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Volumes/Data/Worker/EggApiService/node_modules/cluster-client/lib/leader.js:79:25)
+    at listOnTimeout (node:internal/timers:594:17)
+    at processTimers (node:internal/timers:529:7)
+name: "ClusterClientNoResponseError"
+pid: 88888
+hostname: Mac-mini.local
+

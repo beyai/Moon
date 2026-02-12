@@ -1,0 +1,50 @@
+# 客户端
+[client]
+appMinVersion = "1.0.0"
+updateNotification = "设备App版本过低, 请升级到最新版本"
+
+# 设备采集格式
+[deviceFormat]
+width = 1280
+height = 720
+maxFps = 240
+
+# RTC 视频流配置
+[liveStream]
+# 视频宽度
+width           = 1280
+# 视频高度
+height          = 720
+# 码率
+bitrate         = 1000000
+# 最大帧率
+framerate       = 60
+# 分层模式： null, L1T2, L1T3
+scalabilityMode = "L1T3"
+# 码率优先级: 高 > 1 < 低
+bitratePriority = 2.0
+# 网络优先级： high, medium, low
+networkPriority = "high"
+# 性能： maintainResolution， maintainFramerate, balanced, disabled
+preference      = 'maintainResolution'
+
+# 直播流: 标清
+[liveStreamLevels.low]
+framerate       = 30
+bitrate         = 2500000
+
+# 直播流: 高清
+[liveStreamLevels.medium]
+framerate       = 40
+bitrate         = 2800000
+
+# 直播流: 超清
+[liveStreamLevels.high]
+framerate       = 50
+bitrate         = 3500000
+
+# RTC 中转服务器
+[[iceServers]]
+urls = ["stun:47.100.70.159:34078", "turn:47.100.70.159:34078"]
+username = "liebao"
+credential = "c5fDlz2nCZaVu843"

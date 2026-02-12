@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "POST MouseTrackController.captcha",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/captcha",
+    "regexp": "/^\\/system\\/captcha(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminAuthController.getInfo",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/auth/init",
+    "regexp": "/^\\/system\\/auth\\/init(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminAuthController.updatePassword",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/auth/password",
+    "regexp": "/^\\/system\\/auth\\/password(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminAuthController.login",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/auth/login",
+    "regexp": "/^\\/system\\/auth\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminAuthController.refresh",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/auth/refresh",
+    "regexp": "/^\\/system\\/auth\\/refresh(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminAuthController.logout",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/auth/logout",
+    "regexp": "/^\\/system\\/auth\\/logout(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/admin/list",
+    "regexp": "/^\\/system\\/admin\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminController.findAll",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/admin/all",
+    "regexp": "/^\\/system\\/admin\\/all(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminController.create",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/admin/create",
+    "regexp": "/^\\/system\\/admin\\/create(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminController.setStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/admin/setStatus",
+    "regexp": "/^\\/system\\/admin\\/setStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AdminController.setPassword",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/admin/setPassword",
+    "regexp": "/^\\/system\\/admin\\/setPassword(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceActiveController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/active/list",
+    "regexp": "/^\\/system\\/active\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceActiveController.activeDevice",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/active/active",
+    "regexp": "/^\\/system\\/active\\/active(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceActiveController.unactiveDevice",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/active/unactive",
+    "regexp": "/^\\/system\\/active\\/unactive(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceActiveController.undoActive",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/active/undo",
+    "regexp": "/^\\/system\\/active\\/undo(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/device/list",
+    "regexp": "/^\\/system\\/device\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceController.setUser",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/device/setUser",
+    "regexp": "/^\\/system\\/device\\/setUser(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceController.setStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/device/setStatus",
+    "regexp": "/^\\/system\\/device\\/setStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/device/remove",
+    "regexp": "/^\\/system\\/device\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceMoveController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/move/list",
+    "regexp": "/^\\/system\\/move\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceMoveController.moveDevice",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/move/move",
+    "regexp": "/^\\/system\\/move\\/move(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceMoveController.undoMove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/move/undo",
+    "regexp": "/^\\/system\\/move\\/undo(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceSessionController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/session/list",
+    "regexp": "/^\\/system\\/session\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceSessionController.resetStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/session/resetStatus",
+    "regexp": "/^\\/system\\/session\\/resetStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceSessionController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/session/remove",
+    "regexp": "/^\\/system\\/session\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST WebHookController.onLauch",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/hooks/io/launch",
+    "regexp": "/^\\/hooks\\/io\\/launch(?:\\/(?=$))?$/",
+    "stack": [
+      "HookMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST WebHookController.onAuth",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/hooks/io/auth",
+    "regexp": "/^\\/hooks\\/io\\/auth(?:\\/(?=$))?$/",
+    "stack": [
+      "HookMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST WebHookController.onJoin",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/hooks/io/join",
+    "regexp": "/^\\/hooks\\/io\\/join(?:\\/(?=$))?$/",
+    "stack": [
+      "HookMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST WebHookController.onLeave",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/hooks/io/leave",
+    "regexp": "/^\\/hooks\\/io\\/leave(?:\\/(?=$))?$/",
+    "stack": [
+      "HookMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST UserController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/user/list",
+    "regexp": "/^\\/system\\/user\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST UserController.search",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/user/search",
+    "regexp": "/^\\/system\\/user\\/search(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST UserController.create",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/user/create",
+    "regexp": "/^\\/system\\/user\\/create(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST UserController.setPassword",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/user/setPassword",
+    "regexp": "/^\\/system\\/user\\/setPassword(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST UserController.setStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/user/setStatus",
+    "regexp": "/^\\/system\\/user\\/setStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.getDict",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/dict",
+    "regexp": "/^\\/system\\/game\\/dict(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.findAll",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/all",
+    "regexp": "/^\\/system\\/game\\/all(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/list",
+    "regexp": "/^\\/system\\/game\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.create",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/create",
+    "regexp": "/^\\/system\\/game\\/create(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.update",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/update",
+    "regexp": "/^\\/system\\/game\\/update(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.setStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/setStatus",
+    "regexp": "/^\\/system\\/game\\/setStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GameController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/remove",
+    "regexp": "/^\\/system\\/game\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GamePlayController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/play/list",
+    "regexp": "/^\\/system\\/game\\/play\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST GamePlayController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/game/play/remove",
+    "regexp": "/^\\/system\\/game\\/play\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ApplicationController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/application/list",
+    "regexp": "/^\\/system\\/application\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ApplicationController.create",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/application/create",
+    "regexp": "/^\\/system\\/application\\/create(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ApplicationController.setStatus",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/application/setStatus",
+    "regexp": "/^\\/system\\/application\\/setStatus(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ApplicationController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/application/remove",
+    "regexp": "/^\\/system\\/application\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST CommonController.getTimestamp",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/time",
+    "regexp": "/^\\/v1\\/time(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST CommonController.getChallenge",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/challenge",
+    "regexp": "/^\\/v1\\/challenge(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceContextController.deviceCheckIn",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/checkIn",
+    "regexp": "/^\\/v1\\/device\\/checkIn(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST DeviceContextController.deviceNegotiate",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/negotiate",
+    "regexp": "/^\\/v1\\/device\\/negotiate(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppDeviceController.initDevice",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/init",
+    "regexp": "/^\\/v1\\/device\\/init(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.getDict",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/dict",
+    "regexp": "/^\\/v1\\/game\\/dict(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.findAll",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/all",
+    "regexp": "/^\\/v1\\/game\\/all(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.findDetail",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/detail",
+    "regexp": "/^\\/v1\\/game\\/detail(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/list",
+    "regexp": "/^\\/v1\\/game\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.create",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/create",
+    "regexp": "/^\\/v1\\/game\\/create(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.update",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/update",
+    "regexp": "/^\\/v1\\/game\\/update(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppGameController.remove",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/game/remove",
+    "regexp": "/^\\/v1\\/game\\/remove(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.captcha",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/captcha",
+    "regexp": "/^\\/v1\\/device\\/captcha(?:\\/(?=$))?$/",
+    "stack": [
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.login",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/login",
+    "regexp": "/^\\/v1\\/device\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.register",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/register",
+    "regexp": "/^\\/v1\\/device\\/register(?:\\/(?=$))?$/",
+    "stack": [
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.logout",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/logout",
+    "regexp": "/^\\/v1\\/device\\/logout(?:\\/(?=$))?$/",
+    "stack": [
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.refresh",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/refresh",
+    "regexp": "/^\\/v1\\/device\\/refresh(?:\\/(?=$))?$/",
+    "stack": [
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.userInfo",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/userInfo",
+    "regexp": "/^\\/v1\\/device\\/userInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST AppUserController.updatePassword",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/device/password",
+    "regexp": "/^\\/v1\\/device\\/password(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "AppMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ContextContextController.deviceNegotiate",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/negotiate",
+    "regexp": "/^\\/v1\\/client\\/negotiate(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientDeviceController.initDevice",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/device/init",
+    "regexp": "/^\\/v1\\/client\\/device\\/init(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientDeviceController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/device/list",
+    "regexp": "/^\\/v1\\/client\\/device\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientDeviceController.unbind",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/device/unbind",
+    "regexp": "/^\\/v1\\/client\\/device\\/unbind(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.captcha",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/captcha",
+    "regexp": "/^\\/v1\\/client\\/captcha(?:\\/(?=$))?$/",
+    "stack": [
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.login",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/login",
+    "regexp": "/^\\/v1\\/client\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.register",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/register",
+    "regexp": "/^\\/v1\\/client\\/register(?:\\/(?=$))?$/",
+    "stack": [
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.logout",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/logout",
+    "regexp": "/^\\/v1\\/client\\/logout(?:\\/(?=$))?$/",
+    "stack": [
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.refresh",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/refresh",
+    "regexp": "/^\\/v1\\/client\\/refresh(?:\\/(?=$))?$/",
+    "stack": [
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.userInfo",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/userInfo",
+    "regexp": "/^\\/v1\\/client\\/userInfo(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST ClientUserController.updatePassword",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/v1/client/password",
+    "regexp": "/^\\/v1\\/client\\/password(?:\\/(?=$))?$/",
+    "stack": [
+      "UserAuthMiddleware",
+      "ClientMiddleware",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST PaymentController.payment",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/payment/payment",
+    "regexp": "/^\\/system\\/payment\\/payment(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST PaymentController.findList",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/payment/list",
+    "regexp": "/^\\/system\\/payment\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST StatistcController.countAll",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/statistc/all",
+    "regexp": "/^\\/system\\/statistc\\/all(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST StatistcController.activeCount",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/statistc/active",
+    "regexp": "/^\\/system\\/statistc\\/active(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": "POST StatistcController.moveCount",
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/system/statistc/move",
+    "regexp": "/^\\/system\\/statistc\\/move(?:\\/(?=$))?$/",
+    "stack": [
+      "AdminAuthMiddleware",
+      "anonymous",
+      "wrappedController"
+    ]
+  }
+]

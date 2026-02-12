@@ -1,0 +1,6 @@
+{
+    "name": "payment",
+    "eggModule": {
+        "name": "payment"
+    }
+}
