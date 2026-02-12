@@ -1,0 +1,43 @@
+# 设备采集格式
+[deviceFormat]
+width = 1440
+height = 1080
+maxFps = 60
+
+# RTC 视频流配置
+[rtc]
+# 视频宽度
+width           = 960
+# # 视频高度
+height          = 720
+# # 最大帧率
+framerate       = 60
+# 分层模式： null, L1T2, L1T3
+# scalabilityMode = "L1T3"
+# 码率优先级: 高 > 1 < 低
+bitratePriority = 2.0
+# 网络优先级： high, medium, low
+networkPriority = "high"
+# 性能： maintainResolution， maintainFramerate, balanced, disabled
+preference      = 'maintainResolution，'
+
+# 直播流: 标清
+[settings.low]
+framerate       = 30
+bitrate         = 2500000
+
+# 直播流: 高清
+[settings.medium]
+framerate       = 40
+bitrate         = 2800000
+
+# 直播流: 超清
+[settings.high]
+framerate       = 50
+bitrate         = 3500000
+
+# RTC 中转服务器
+[[iceServers]]
+urls = ["stun:47.100.70.159:34078", "turn:47.100.70.159:34078"]
+username = "liebao"
+credential = "c5fDlz2nCZaVu843"

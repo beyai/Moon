@@ -1,0 +1,6 @@
+{
+    "name": "client",
+    "eggModule": {
+        "name": "client"
+    }
+}

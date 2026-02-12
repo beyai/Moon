@@ -1,0 +1,24 @@
+[app]
+port = 3001
+route = "/io"
+idleTimeout = 10
+
+[app.redis]
+uri = "redis://default:webmaster@192.168.5.219:6379/0"
+prefix = ''
+
+[room]
+# 最大观众人数
+maxAudienceSize = 1
+# 未激活最大停留时长（秒) 
+unActiveMaxStay = 300
+# 未激活使用累积时长（秒)
+unActiveMaxUseSec = 1500
+
+[jwt]
+secretKey = "K9mP2vX8qL7nR4wE6tY3uI0oA5sD1fG9"
+
+[hook]
+baseURL = "http://127.0.0.1:7001/hooks/io"
+apiKey  = "5a8a1b2c-3d4e-4f5a-6b7c-8d9e0f1a2b3c"
+

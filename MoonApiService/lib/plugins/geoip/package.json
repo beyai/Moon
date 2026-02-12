@@ -1,0 +1,23 @@
+{
+    "name": "@plugin/geoip",
+    "version": "1.0.0",
+    "description": "",
+    "eggPlugin": {
+        "name": "geoip",
+        "dependencies": []
+    },
+    "dependencies": {
+        "mmdb-lib": "^3.0.1"
+    },
+    "devDependencies": {
+    },
+    "peerDependencies": {
+    },
+    "files": [
+        "config",
+        "app.js",
+        "agent.js",
+        "app/**",
+        "lib/**"
+    ]
+}

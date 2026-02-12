@@ -1,0 +1,11 @@
+<script>
+    const ws = new WebSocket('ws://127.0.0.1:3000/io', ['token'])
+
+    ws.onerror = (err) => {
+        console.log(err)
+    }
+
+    ws.onclose = event => {
+        console.log(event)
+    }
+</script>

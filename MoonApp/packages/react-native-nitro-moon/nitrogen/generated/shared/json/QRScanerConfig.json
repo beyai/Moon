@@ -1,0 +1,12 @@
+{
+  "uiViewClassName": "QRScaner",
+  "supportsRawText": false,
+  "bubblingEventTypes": {},
+  "directEventTypes": {},
+  "validAttributes": {
+    "isActive": true,
+    "paused": true,
+    "onScan": true,
+    "hybridRef": true
+  }
+}

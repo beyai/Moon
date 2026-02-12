@@ -1,0 +1,175 @@
+import { ThemeMode } from "@/Constraint";
+import { createStore } from "./BaseStore";
+import { UnistylesRuntime } from "react-native-unistyles";
+import {  TTS, Sound, Tool } from 'react-native-nitro-moon'
+import type { SoundOutputDevice } from "react-native-nitro-moon";
+import type { CameraPosition, CameraOrientation, CameraFilter } from 'react-native-nitro-moon'
+
+export const {
+    state: SettingState,
+    actions: SettingActions,
+    useStore: useSettingStore,
+    useSnapshot: useSettingSnapshot,
+} = createStore({
+    
+    name: 'settingStore',
+
+    persistKeys: [
+        'theme',
+        'focus', 'zoom', 'exposure', 'orientation', 'deviceFilter',
+        'soundOutput', 'volume', 'voiceId', 'voiceRate',
+    ],
+
+    state: {
+        
+        // 主题模式
+        theme: 'system' as ThemeMode,
+        // 音频输出设备
+        soundOutput: "System" as SoundOutputDevice,
+        // 音量
+        volume: 1.0,
+        // 语音ID
+        voiceId: 'com.apple.voice.compact.zh-CN.Tingting',
+        // 语速
+        voiceRate: 0.5,
+        // 电量
+        battery: 100,
+        // 屏幕捕获状态
+        screenCaptureState: false,
+
+        /** 相机 */
+
+        // 曝光
+        exposure: 1,
+        // 焦距
+        focus: 1,
+        // 放大
+        zoom: 1,
+        // 帧率
+        fps: 60,
+        // 亮度
+        brightness: 1,
+        // 旋转画面
+        orientation: 'up' as CameraOrientation,
+        // 相机格式筛选
+        deviceFilter: {
+            position: 'back' as CameraPosition,
+            width: 1280,
+            height: 720,
+            maxFps: 60
+        } as  CameraFilter,
+        
+    },
+
+    getters: {
+
+        position(): CameraPosition {
+            return this.deviceFilter.position
+        },
+
+        orientationText(): string {
+            const { position, orientation }= this;
+            let text = position == 'back' ? '后置' : '前置'
+            if (orientation ==  'left' ) {
+                text += '左横屏'
+            } else if (orientation == 'down' ) {
+                text += '竖屏倒'
+            } else if (orientation == 'right' ) {
+                text += '右横屏'
+            } else  {
+                text += '竖屏'
+            }
+            return text
+        }
+    },
+
+    actions: {
+        
+        // 设置主题
+        setTheme(value: ThemeMode) {
+            this.theme = value
+            UnistylesRuntime.setAdaptiveThemes(value === ThemeMode.system)
+            if (value !== ThemeMode.system) {
+                UnistylesRuntime.setTheme(value)
+            }
+        },
+        
+        // 切换相机
+        switchPosition() {
+            const { deviceFilter, position } = this;
+            this.deviceFilter = {
+                ...deviceFilter,
+                position: position == 'back' ? 'front' : 'back',
+                maxFps: position == 'back' ? 120 : 240,
+            }
+        },
+
+        // 旋转画面
+        switchOrientation() {
+            switch (this.orientation) {
+                case 'up':
+                    this.orientation = 'left';
+                    break;
+                case 'left':
+                    this.orientation = 'down'
+                    break;
+                case 'down':
+                    this.orientation = 'right';
+                    break;
+                case 'right':
+                    this.orientation = 'up';
+                    break;
+            }
+        },
+
+        setExposure(value: number) {
+            this.exposure = value
+        },
+
+        setFocus(value: number) {
+            this.focus = value
+        },
+        
+        setZoom(value: number) {
+            this.zoom = value
+        },
+        
+        setFps(value: number) {
+            this.fps = value
+        },
+
+
+        // 设置音频输出设备
+        setSoundOutputDevice(device: SoundOutputDevice) {
+            this.soundOutput = device
+            Sound.setOutputDevice(device)
+        },
+        // 设置音量
+        setVolume(value: number) {
+            this.volume = value
+            Sound.setVolume(value)
+        },
+        // 设置语音
+        setVoice(value: string) {
+            this.voiceId = value;
+            TTS.setVoice(value)
+        },
+        // 设置语速
+        setVoiceRate(value: number) {
+            this.voiceRate = value
+            TTS.setRate(value)
+        },
+
+        // 设置电量
+        setBattery(value: number) {
+            this.battery = value
+            console.log("battery", value)
+        },
+
+        // 设置屏幕捕获状态
+        setScreenCaptureState(state: boolean) {
+            this.screenCaptureState = state
+            console.log("screenCaptureState", state)
+        }
+    }
+})

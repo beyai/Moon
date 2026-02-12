@@ -1,0 +1,73 @@
+:root {
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+* {
+    box-sizing: border-box;
+    outline: none;
+    &:focus-visible {
+        box-shadow: none!important;
+    }
+}
+
+input:-webkit-autofill { box-shadow: inset 0 0 0 2000px #fff; }
+input:autofill { box-shadow: inset 0 0 0 2000px #fff; }
+
+/** 模态窗口动画 */
+.fade-slide {
+    &-enter-from, &-leave-to {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    &-enter-active, &-leave-active {
+        transition: opacity .2s linear, transform .2s linear;
+    }
+    &-enter-to, &-leave-from {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/** 重置模态窗口样式 */
+.arco-modal {
+    padding: 0!important;
+    &-header {
+        height: auto!important;
+        padding: 0!important;
+        margin: @size-6!important;
+        border-bottom: 0!important;
+        width: auto!important;
+    }
+    &-body {
+        padding: 0!important;
+        margin: @size-6!important;
+    }
+    &-footer {
+        padding: 0!important;
+        border-top: 0!important;
+        width: auto!important;
+        margin: @size-6!important;
+    }
+}
+
+.arco-typography {
+    margin: 0!important;
+}

@@ -1,0 +1,30 @@
+{
+  "$schema": "https://nitro.margelo.com/nitro.schema.json",
+  "cxxNamespace": [
+    "nitromoon"
+  ],
+  "ios": {
+    "iosModuleName": "NitroMoon"
+  },
+  "android": {
+    "androidNamespace": [
+      "nitromoon"
+    ],
+    "androidCxxLibName": "NitroMoon"
+  },
+  "autolinking": {
+    "Camera": { "swift": "Camera" },
+    "QRScaner": { "swift": "QRScaner" },
+    "Tool": { "swift": "Tool"},
+    "SoundManager": { "swift": "SoundManager" },
+    "SoundPlayer": { "swift": "SoundPlayer" },
+    "SoundTTS": { "swift": "SoundTTS" },
+    "HttpRequest": { "swift": "HttpRequest"},
+    "Signal": { "swift": "Signal"},
+    "MRTC": { "swift": "MRTC"},
+    "Detection": { "swift": "Detection"}
+  },
+  "ignorePaths": [
+    "**/node_modules"
+  ]
+}

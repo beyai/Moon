@@ -1,0 +1,16 @@
+{
+  "name": "moon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "app",
+    "packages/react-native-nitro-moon"
+  ],
+  "scripts": {
+    "start": "bun --cwd app start --reset-cache",
+    "pod": "bun --cwd app pod",
+    "codegen": "bun --cwd packages/react-native-nitro-moon nitrogen --logLevel=\"debug\""
+  }
+}
